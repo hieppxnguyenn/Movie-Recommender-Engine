@@ -1,0 +1,2001 @@
+,genres,movie_title,imdb_score,movie_imdb_link
+0,"
+Action, Adventure, Drama            ",Kantara,9.1,https://www.imdb.com/title/tt15327088
+1,"
+Action, Drama, War            ",All Quiet on the Western Front,7.9,https://www.imdb.com/title/tt1016150
+2,"
+Action, Drama            ",Top Gun: Maverick,8.4,https://www.imdb.com/title/tt1745960
+3,"
+Horror, Thriller            ",Halloween,7.7,https://www.imdb.com/title/tt0077651
+4,"
+Action, Adventure, Comedy            ",Everything Everywhere All at Once,8.1,https://www.imdb.com/title/tt6710474
+5,"
+Action, Crime, Drama            ",The Batman,7.9,https://www.imdb.com/title/tt1877830
+6,"
+Animation, Family, Fantasy            ",The Nightmare Before Christmas,7.9,https://www.imdb.com/title/tt0107688
+7,"
+Action, Adventure, Drama            ",The Lord of the Rings: The Fellowship of the Ring,8.8,https://www.imdb.com/title/tt0120737
+8,"
+Crime, Drama, Horror            ",American Psycho,7.6,https://www.imdb.com/title/tt0144084
+9,"
+Adventure, Family, Fantasy            ",Harry Potter and the Sorcerer's Stone,7.6,https://www.imdb.com/title/tt0241527
+10,"
+Drama            ",The Shawshank Redemption,9.3,https://www.imdb.com/title/tt0111161
+11,"
+Crime, Drama            ",The Godfather,9.2,https://www.imdb.com/title/tt0068646
+12,"
+Adventure, Drama, Sci-Fi            ",Interstellar,8.6,https://www.imdb.com/title/tt0816692
+13,"
+Drama, Horror            ",The Shining,8.4,https://www.imdb.com/title/tt0081505
+14,"
+Adventure, Comedy, Family            ",The Goonies,7.7,https://www.imdb.com/title/tt0089218
+15,"
+Action, Adventure, Fantasy            ",Spider-Man: No Way Home,8.3,https://www.imdb.com/title/tt10872600
+16,"
+Action, Comedy, Fantasy            ",Ghostbusters,7.8,https://www.imdb.com/title/tt0087332
+17,"
+Action, Adventure, Drama            ",Dune,8.0,https://www.imdb.com/title/tt1160419
+18,"
+Crime, Drama, Thriller            ",Joker,8.4,https://www.imdb.com/title/tt7286456
+19,"
+Action, Adventure, Drama            ",Avengers: Endgame,8.4,https://www.imdb.com/title/tt4154796
+20,"
+Comedy, Crime, Drama            ",Knives Out,7.9,https://www.imdb.com/title/tt8946378
+21,"
+Crime, Drama            ",Pulp Fiction,8.9,https://www.imdb.com/title/tt0110912
+22,"
+Drama            ",Fight Club,8.8,https://www.imdb.com/title/tt0137523
+23,"
+Action, Crime, Drama            ",The Dark Knight,9.0,https://www.imdb.com/title/tt0468569
+24,"
+Horror            ",The Exorcist,8.1,https://www.imdb.com/title/tt0070047
+25,"
+Action, Adventure, Sci-Fi            ",Rogue One: A Star Wars Story,7.8,https://www.imdb.com/title/tt3748528
+26,"
+Action, Adventure, Fantasy            ",Avatar,7.8,https://www.imdb.com/title/tt0499549
+27,"
+Biography, Comedy, Crime            ",The Wolf of Wall Street,8.2,https://www.imdb.com/title/tt0993846
+28,"
+Comedy, Drama            ",Once Upon a Time in Hollywood,7.6,https://www.imdb.com/title/tt7131622
+29,"
+Crime, Drama, Thriller            ",The Silence of the Lambs,8.6,https://www.imdb.com/title/tt0102926
+30,"
+Horror, Mystery, Sci-Fi            ",The Thing,8.2,https://www.imdb.com/title/tt0084787
+31,"
+Drama, Thriller            ",Parasite,8.5,https://www.imdb.com/title/tt6751668
+32,"
+Adventure, Comedy, Sci-Fi            ",Back to the Future,8.5,https://www.imdb.com/title/tt0088763
+33,"
+Horror, Mystery, Thriller            ",Get Out,7.7,https://www.imdb.com/title/tt5052448
+34,"
+Action, Adventure, Sci-Fi            ",Inception,8.8,https://www.imdb.com/title/tt1375666
+35,"
+Drama            ",American Beauty,8.4,https://www.imdb.com/title/tt0169547
+36,"
+Action, Adventure, Drama            ",The Lord of the Rings: The Return of the King,9.0,https://www.imdb.com/title/tt0167260
+37,"
+Action, Drama            ",RRR,8.0,https://www.imdb.com/title/tt8178634
+38,"
+Animation, Drama, Family            ",Coraline,7.7,https://www.imdb.com/title/tt0327597
+39,"
+Comedy, Crime, Drama            ",In Bruges,7.9,https://www.imdb.com/title/tt0780536
+40,"
+Adventure, Drama, War            ",Inglourious Basterds,8.3,https://www.imdb.com/title/tt0361748
+41,"
+Crime, Drama, Mystery            ",Se7en,8.6,https://www.imdb.com/title/tt0114369
+42,"
+Drama, Fantasy, Romance            ",Edward Scissorhands,7.9,https://www.imdb.com/title/tt0099487
+43,"
+Drama, Romance            ",Forrest Gump,8.8,https://www.imdb.com/title/tt0109830
+44,"
+Action, Comedy, Crime            ",The Gentlemen,7.8,https://www.imdb.com/title/tt8367814
+45,"
+Drama, Romance            ",Titanic,7.9,https://www.imdb.com/title/tt0120338
+46,"
+Action, Drama, Mystery            ",Blade Runner 2049,8.0,https://www.imdb.com/title/tt1856101
+47,"
+Action, Adventure, Fantasy            ",Zack Snyder's Justice League,8.0,https://www.imdb.com/title/tt12361974
+48,"
+Drama, Horror, Sci-Fi            ",The Bride of Frankenstein,7.8,https://www.imdb.com/title/tt0026138
+49,"
+Horror, Sci-Fi            ",Alien,8.5,https://www.imdb.com/title/tt0078748
+50,"
+Action, Adventure, Drama            ",Gladiator,8.5,https://www.imdb.com/title/tt0172495
+51,"
+Drama, Music            ",Whiplash,8.5,https://www.imdb.com/title/tt2582802
+52,"
+Action, Adventure, Drama            ",The Lord of the Rings: The Two Towers,8.8,https://www.imdb.com/title/tt0167261
+53,"
+Biography, Drama, History            ",Schindler's List,9.0,https://www.imdb.com/title/tt0108052
+54,"
+Mystery, Thriller            ",Shutter Island,8.2,https://www.imdb.com/title/tt1130884
+55,"
+Crime, Drama, Thriller            ",The Departed,8.5,https://www.imdb.com/title/tt0407887
+56,"
+Action, Adventure, Sci-Fi            ",Jurassic Park,8.2,https://www.imdb.com/title/tt0107290
+57,"
+Action, Crime, Drama            ",Léon: The Professional,8.5,https://www.imdb.com/title/tt0110413
+58,"
+Comedy            ",Young Frankenstein,8.0,https://www.imdb.com/title/tt0072431
+59,"
+Horror, Mystery, Thriller            ",Psycho,8.5,https://www.imdb.com/title/tt0054215
+60,"
+Action, Comedy, Crime            ",Kick-Ass,7.6,https://www.imdb.com/title/tt1250777
+61,"
+Crime, Sci-Fi            ",A Clockwork Orange,8.3,https://www.imdb.com/title/tt0066921
+62,"
+Adventure, Fantasy            ",The Hobbit: An Unexpected Journey,7.8,https://www.imdb.com/title/tt0903624
+63,"
+Action, Sci-Fi            ",The Matrix,8.7,https://www.imdb.com/title/tt0133093
+64,"
+Crime, Drama, Mystery            ",Prisoners,8.1,https://www.imdb.com/title/tt1392214
+65,"
+Drama, Western            ",Django Unchained,8.4,https://www.imdb.com/title/tt1853728
+66,"
+Biography, Crime, Drama            ",Goodfellas,8.7,https://www.imdb.com/title/tt0099685
+67,"
+Action, Adventure, Fantasy            ",Pirates of the Caribbean: The Curse of the Black Pearl,8.1,https://www.imdb.com/title/tt0325980
+68,"
+Horror, Mystery, Thriller            ",Saw,7.6,https://www.imdb.com/title/tt0387564
+69,"
+Drama, War            ",All Quiet on the Western Front,8.1,https://www.imdb.com/title/tt0020629
+70,"
+Drama            ",The Help,8.1,https://www.imdb.com/title/tt1454029
+71,"
+Drama, Mystery, Thriller            ",The Sixth Sense,8.2,https://www.imdb.com/title/tt0167404
+72,"
+Action, Drama, War            ",1917,8.2,https://www.imdb.com/title/tt8579674
+73,"
+Animation, Adventure, Comedy            ",Coco,8.4,https://www.imdb.com/title/tt2380307
+74,"
+Drama, Fantasy, War            ",Pan's Labyrinth,8.2,https://www.imdb.com/title/tt0457430
+75,"
+Action, Adventure, Biography            ",Thirteen Lives,7.8,https://www.imdb.com/title/tt12262116
+76,"
+Crime, Drama            ",Scarface,8.3,https://www.imdb.com/title/tt0086250
+77,"
+Adventure, Family, Fantasy            ",Harry Potter and the Goblet of Fire,7.7,https://www.imdb.com/title/tt0330373
+78,"
+Drama, Thriller            ",Black Swan,8.0,https://www.imdb.com/title/tt0947798
+79,"
+Action, Adventure, Comedy            ",Guardians of the Galaxy,8.0,https://www.imdb.com/title/tt2015381
+80,"
+Drama, Romance            ",Call Me by Your Name,7.8,https://www.imdb.com/title/tt5726616
+81,"
+Crime, Drama, Thriller            ",No Country for Old Men,8.2,https://www.imdb.com/title/tt0477348
+82,"
+Drama, Mystery, Sci-Fi            ",Donnie Darko,8.0,https://www.imdb.com/title/tt0246578
+83,"
+Drama, Mystery, Sci-Fi            ",The Prestige,8.5,https://www.imdb.com/title/tt0482571
+84,"
+Action, Adventure, Comedy            ",Deadpool,8.0,https://www.imdb.com/title/tt1431045
+85,"
+Comedy, Crime            ",The Big Lebowski,8.1,https://www.imdb.com/title/tt0118715
+86,"
+Crime, Drama            ",Taxi Driver,8.2,https://www.imdb.com/title/tt0075314
+87,"
+Drama, Romance            ",Little Women,7.8,https://www.imdb.com/title/tt3281548
+88,"
+Comedy, Drama, War            ",Jojo Rabbit,7.9,https://www.imdb.com/title/tt2584384
+89,"
+Drama            ",Requiem for a Dream,8.3,https://www.imdb.com/title/tt0180093
+90,"
+Action, Adventure, Comedy            ",Deadpool 2,7.7,https://www.imdb.com/title/tt5463162
+91,"
+Drama, Romance, Thriller            ",The Handmaiden,8.1,https://www.imdb.com/title/tt4016934
+92,"
+Adventure, Drama            ",Stand by Me,8.1,https://www.imdb.com/title/tt0092005
+93,"
+Action, Adventure, Fantasy            ",Star Wars: Episode IV - A New Hope,8.6,https://www.imdb.com/title/tt0076759
+94,"
+Action, Drama, Mystery            ",Sita Ramam,8.5,https://www.imdb.com/title/tt20850406
+95,"
+Drama            ",One Flew Over the Cuckoo's Nest,8.7,https://www.imdb.com/title/tt0073486
+96,"
+Drama, Romance, Sci-Fi            ",Eternal Sunshine of the Spotless Mind,8.3,https://www.imdb.com/title/tt0338013
+97,"
+Crime, Thriller            ",Ocean's Eleven,7.7,https://www.imdb.com/title/tt0240772
+98,"
+Adventure, Family, Fantasy            ",The Princess Bride,8.0,https://www.imdb.com/title/tt0093779
+99,"
+Drama, Horror            ",Rosemary's Baby,8.0,https://www.imdb.com/title/tt0063522
+100,"
+Action, Adventure, Sci-Fi            ",Avengers: Infinity War,8.4,https://www.imdb.com/title/tt4154756
+101,"
+Adventure, Comedy, Crime            ",The Grand Budapest Hotel,8.1,https://www.imdb.com/title/tt2278388
+102,"
+Crime, Drama            ",12 Angry Men,9.0,https://www.imdb.com/title/tt0050083
+103,"
+Comedy, Drama, Romance            ",The Worst Person in the World,7.8,https://www.imdb.com/title/tt10370710
+104,"
+Comedy, Crime, Drama            ","Three Billboards Outside Ebbing, Missouri",8.1,https://www.imdb.com/title/tt5027774
+105,"
+Crime, Drama            ",The Godfather Part II,9.0,https://www.imdb.com/title/tt0071562
+106,"
+Crime, Drama, Fantasy            ",The Green Mile,8.6,https://www.imdb.com/title/tt0120689
+107,"
+Action, Drama, Mystery            ",Oldboy,8.4,https://www.imdb.com/title/tt0364569
+108,"
+Adventure, Thriller            ",Jaws,8.1,https://www.imdb.com/title/tt0073195
+109,"
+Drama, Romance            ",Good Will Hunting,8.3,https://www.imdb.com/title/tt0119217
+110,"
+Action, Crime, Drama            ",Heat,8.3,https://www.imdb.com/title/tt0113277
+111,"
+Action, Adventure, Sci-Fi            ",Iron Man,7.9,https://www.imdb.com/title/tt0371746
+112,"
+Adventure, Family, Sci-Fi            ",E.T. the Extra-Terrestrial,7.9,https://www.imdb.com/title/tt0083866
+113,"
+Adventure, Family, Fantasy            ",Harry Potter and the Deathly Hallows: Part 2,8.1,https://www.imdb.com/title/tt1201607
+114,"
+Comedy, Drama, Fantasy            ",About Time,7.8,https://www.imdb.com/title/tt2194499
+115,"
+Drama, Fantasy, Horror            ",Let the Right One In,7.9,https://www.imdb.com/title/tt1139797
+116,"
+Comedy, Drama, Music            ",CODA,8.0,https://www.imdb.com/title/tt10366460
+117,"
+Comedy, Family            ",Home Alone,7.7,https://www.imdb.com/title/tt0099785
+118,"
+Action, Drama            ",The Dark Knight Rises,8.4,https://www.imdb.com/title/tt1345836
+119,"
+Action, Adventure, Sci-Fi            ",The Avengers,8.0,https://www.imdb.com/title/tt0848228
+120,"
+Drama, Mystery, Thriller            ",Gone Girl,8.1,https://www.imdb.com/title/tt2267998
+121,"
+Drama, Romance            ",The Notebook,7.8,https://www.imdb.com/title/tt0332280
+122,"
+Action, Drama, History            ",Black Hawk Down,7.7,https://www.imdb.com/title/tt0265086
+123,"
+Action, Adventure, Thriller            ",Casino Royale,8.0,https://www.imdb.com/title/tt0381061
+124,"
+Adventure, Sci-Fi            ",2001: A Space Odyssey,8.3,https://www.imdb.com/title/tt0062622
+125,"
+Drama, Mystery, Thriller            ",Mulholland Drive,7.9,https://www.imdb.com/title/tt0166924
+126,"
+Crime, Drama, Mystery            ",The Usual Suspects,8.5,https://www.imdb.com/title/tt0114814
+127,"
+Drama, Romance            ",Pride & Prejudice,7.8,https://www.imdb.com/title/tt0414387
+128,"
+Drama, Horror, Sci-Fi            ",The Fly,7.6,https://www.imdb.com/title/tt0091064
+129,"
+Action, Adventure, Sci-Fi            ",Mad Max: Fury Road,8.1,https://www.imdb.com/title/tt1392190
+130,"
+Comedy, Family            ",A Christmas Story,7.9,https://www.imdb.com/title/tt0085334
+131,"
+Adventure, Family, Fantasy            ",Harry Potter and the Prisoner of Azkaban,7.9,https://www.imdb.com/title/tt0304141
+132,"
+Adventure, Family, Fantasy            ",Stardust,7.6,https://www.imdb.com/title/tt0486655
+133,"
+Comedy, Crime            ",Snatch,8.2,https://www.imdb.com/title/tt0208092
+134,"
+Drama, Mystery, War            ",Apocalypse Now,8.5,https://www.imdb.com/title/tt0078788
+135,"
+Drama, Romance, Sci-Fi            ",Her,8.0,https://www.imdb.com/title/tt1798709
+136,"
+Biography, Drama, History            ",Braveheart,8.4,https://www.imdb.com/title/tt0112573
+137,"
+Animation, Adventure, Family            ",Spirited Away,8.6,https://www.imdb.com/title/tt0245429
+138,"
+Action, Biography, Drama            ",Ford v Ferrari,8.1,https://www.imdb.com/title/tt1950186
+139,"
+Drama, War            ",Saving Private Ryan,8.6,https://www.imdb.com/title/tt0120815
+140,"
+Action, Adventure, Sci-Fi            ",Aliens,8.4,https://www.imdb.com/title/tt0090605
+141,"
+Action, Drama, Sci-Fi            ",Blade Runner,8.1,https://www.imdb.com/title/tt0083658
+142,"
+Comedy, Drama            ",The Breakfast Club,7.8,https://www.imdb.com/title/tt0088847
+143,"
+Action, Adventure, Comedy            ",Kingsman: The Secret Service,7.7,https://www.imdb.com/title/tt2802144
+144,"
+Animation, Adventure, Drama            ",The Lion King,8.5,https://www.imdb.com/title/tt0110357
+145,"
+Adventure, Fantasy            ",The Hobbit: The Desolation of Smaug,7.8,https://www.imdb.com/title/tt1170358
+146,"
+Mystery, Thriller            ",Memento,8.4,https://www.imdb.com/title/tt0209144
+147,"
+Action, Drama            ",Drive,7.8,https://www.imdb.com/title/tt0780504
+148,"
+Biography, Drama, History            ",Hacksaw Ridge,8.1,https://www.imdb.com/title/tt2119532
+149,"
+Comedy            ",The Hangover,7.7,https://www.imdb.com/title/tt1119646
+150,"
+Action, Crime, Drama            ",Batman Begins,8.2,https://www.imdb.com/title/tt0372784
+151,"
+Drama            ",The Hunt,8.3,https://www.imdb.com/title/tt2106476
+152,"
+Animation, Action, Adventure            ",Spider-Man: Into the Spider-Verse,8.4,https://www.imdb.com/title/tt4633694
+153,"
+Adventure, Family, Fantasy            ",The Wizard of Oz,8.1,https://www.imdb.com/title/tt0032138
+154,"
+Action, Drama, Mystery            ",Watchmen,7.6,https://www.imdb.com/title/tt0409459
+155,"
+Adventure, Family, Fantasy            ",Harry Potter and the Deathly Hallows: Part 1,7.7,https://www.imdb.com/title/tt0926084
+156,"
+Action, Sci-Fi            ",Terminator 2: Judgment Day,8.6,https://www.imdb.com/title/tt0103064
+157,"
+Crime, Drama            ",Once Upon a Time in America,8.3,https://www.imdb.com/title/tt0087843
+158,"
+Comedy, Drama            ",The Truman Show,8.2,https://www.imdb.com/title/tt0120382
+159,"
+Action, Drama, History            ",Dunkirk,7.8,https://www.imdb.com/title/tt5013056
+160,"
+Horror, Thriller            ",Night of the Living Dead,7.8,https://www.imdb.com/title/tt0063350
+161,"
+Biography, Comedy, Drama            ",Green Book,8.2,https://www.imdb.com/title/tt6966692
+162,"
+Action, Drama, Sci-Fi            ",V for Vendetta,8.2,https://www.imdb.com/title/tt0434409
+163,"
+Action, Drama, Sci-Fi            ",Logan,8.1,https://www.imdb.com/title/tt3315342
+164,"
+Biography, Comedy, Drama            ",The Big Short,7.8,https://www.imdb.com/title/tt1596363
+165,"
+Action, Adventure, Sci-Fi            ",The Fifth Element,7.6,https://www.imdb.com/title/tt0119116
+166,"
+Action, Crime, Drama            ",Sicario,7.6,https://www.imdb.com/title/tt3397884
+167,"
+Drama            ",Boogie Nights,7.9,https://www.imdb.com/title/tt0118749
+168,"
+Drama, Thriller            ",Misery,7.8,https://www.imdb.com/title/tt0100157
+169,"
+Comedy, Horror            ",Shaun of the Dead,7.9,https://www.imdb.com/title/tt0365748
+170,"
+Comedy, Horror            ",What We Do in the Shadows,7.6,https://www.imdb.com/title/tt3416742
+171,"
+Action, Sci-Fi            ",The Terminator,8.1,https://www.imdb.com/title/tt0088247
+172,"
+Drama, Mystery, Sci-Fi            ",Arrival,7.9,https://www.imdb.com/title/tt2543164
+173,"
+Action, Crime, Drama            ",Man on Fire,7.7,https://www.imdb.com/title/tt0328107
+174,"
+Crime, Drama            ",City of God,8.6,https://www.imdb.com/title/tt0317248
+175,"
+Comedy            ",Ferris Bueller's Day Off,7.8,https://www.imdb.com/title/tt0091042
+176,"
+Action, Crime, Drama            ",Kill Bill: Vol. 1,8.2,https://www.imdb.com/title/tt0266697
+177,"
+Action, Adventure, Sci-Fi            ",Star Trek,7.9,https://www.imdb.com/title/tt0796366
+178,"
+Comedy, Drama, Romance            ",Life Is Beautiful,8.6,https://www.imdb.com/title/tt0118799
+179,"
+Crime, Thriller            ",Reservoir Dogs,8.3,https://www.imdb.com/title/tt0105236
+180,"
+Action, Adventure, Horror            ",Predator,7.8,https://www.imdb.com/title/tt0093773
+181,"
+Crime, Drama            ",American History X,8.5,https://www.imdb.com/title/tt0120586
+182,"
+Comedy, Drama, Romance            ",A Man Called Ove,7.7,https://www.imdb.com/title/tt4080728
+183,"
+Animation, Adventure, Comedy            ",Ratatouille,8.1,https://www.imdb.com/title/tt0382932
+184,"
+Adventure, Western            ","The Good, the Bad and the Ugly",8.8,https://www.imdb.com/title/tt0060196
+185,"
+Action, Adventure, War            ",The Dirty Dozen,7.7,https://www.imdb.com/title/tt0061578
+186,"
+Action, Adventure            ",Indiana Jones and the Raiders of the Lost Ark,8.4,https://www.imdb.com/title/tt0082971
+187,"
+Action, Adventure, Sci-Fi            ",Edge of Tomorrow,7.9,https://www.imdb.com/title/tt1631867
+188,"
+Drama, War            ",Full Metal Jacket,8.3,https://www.imdb.com/title/tt0093058
+189,"
+Drama, Mystery            ",The Father,8.2,https://www.imdb.com/title/tt10272386
+190,"
+Action, Drama            ",300,7.6,https://www.imdb.com/title/tt0416449
+191,"
+Crime, Drama, Thriller            ",Nightcrawler,7.8,https://www.imdb.com/title/tt2872718
+192,"
+Animation, Adventure, Comedy            ","Monsters, Inc.",8.1,https://www.imdb.com/title/tt0198781
+193,"
+Drama            ",The Perks of Being a Wallflower,8.0,https://www.imdb.com/title/tt1659337
+194,"
+Action, Thriller            ",Die Hard,8.2,https://www.imdb.com/title/tt0095016
+195,"
+Biography, Drama, History            ",Hamilton,8.4,https://www.imdb.com/title/tt8503618
+196,"
+Action, Adventure, Comedy            ",Thor: Ragnarok,7.9,https://www.imdb.com/title/tt3501632
+197,"
+Drama, Sci-Fi, Thriller            ",Ex Machina,7.7,https://www.imdb.com/title/tt0470752
+198,"
+Biography, Crime, Drama            ",The Irishman,7.8,https://www.imdb.com/title/tt1302006
+199,"
+Biography, Drama, Music            ",Amadeus,8.4,https://www.imdb.com/title/tt0086879
+200,"
+Comedy, Drama, Music            ",La La Land,8.0,https://www.imdb.com/title/tt3783958
+201,"
+Biography, Crime, Drama            ",Catch Me If You Can,8.1,https://www.imdb.com/title/tt0264464
+202,"
+Drama, Romance            ",Blue Is the Warmest Colour,7.7,https://www.imdb.com/title/tt2278871
+203,"
+Drama            ",There Will Be Blood,8.2,https://www.imdb.com/title/tt0469494
+204,"
+Comedy, Drama            ",Dead Poets Society,8.1,https://www.imdb.com/title/tt0097165
+205,"
+Biography, Drama, Music            ",Bohemian Rhapsody,7.9,https://www.imdb.com/title/tt1727824
+206,"
+Biography, Drama, Music            ",The Pianist,8.5,https://www.imdb.com/title/tt0253474
+207,"
+Animation, Adventure, Comedy            ",Inside Out,8.2,https://www.imdb.com/title/tt2096673
+208,"
+Drama, Romance            ",Marriage Story,7.9,https://www.imdb.com/title/tt7653254
+209,"
+Biography, Comedy, Drama            ",The Intouchables,8.5,https://www.imdb.com/title/tt1675434
+210,"
+Horror, Mystery, Thriller            ",The Others,7.6,https://www.imdb.com/title/tt0230600
+211,"
+Crime, Drama, Mystery            ",Primal Fear,7.7,https://www.imdb.com/title/tt0117381
+212,"
+Drama, Thriller, War            ",Come and See,8.4,https://www.imdb.com/title/tt0091251
+213,"
+Drama            ",Y tu mamá también,7.7,https://www.imdb.com/title/tt0245574
+214,"
+Drama, Sport            ",Rocky,8.1,https://www.imdb.com/title/tt0075148
+215,"
+Animation, Adventure, Comedy            ",Toy Story,8.3,https://www.imdb.com/title/tt0114709
+216,"
+Drama            ",Trainspotting,8.1,https://www.imdb.com/title/tt0117951
+217,"
+Crime, Drama, Mystery            ",The Hateful Eight,7.8,https://www.imdb.com/title/tt3460252
+218,"
+Biography, Drama            ",The Social Network,7.8,https://www.imdb.com/title/tt1285016
+219,"
+Biography, Drama, History            ",Tombstone,7.8,https://www.imdb.com/title/tt0108358
+220,"
+Animation, Adventure, Comedy            ",Moana,7.6,https://www.imdb.com/title/tt3521164
+221,"
+Action, Adventure, Thriller            ",Skyfall,7.8,https://www.imdb.com/title/tt1074638
+222,"
+Biography, Drama, Sport            ",The Blind Side,7.6,https://www.imdb.com/title/tt0878804
+223,"
+Fantasy, Horror            ",Nosferatu,7.9,https://www.imdb.com/title/tt0013442
+224,"
+Adventure, Drama            ",Ben-Hur,8.1,https://www.imdb.com/title/tt0052618
+225,"
+Action, Drama, Sport            ",Creed,7.6,https://www.imdb.com/title/tt3076658
+226,"
+Adventure, Drama, War            ",Barry Lyndon,8.1,https://www.imdb.com/title/tt0072684
+227,"
+Crime, Thriller            ",Sin City,8.0,https://www.imdb.com/title/tt0401792
+228,"
+Comedy            ",Superbad,7.6,https://www.imdb.com/title/tt0829482
+229,"
+Action, Drama, Sport            ",Warrior,8.2,https://www.imdb.com/title/tt1291584
+230,"
+Action, Adventure, Thriller            ",Mission: Impossible - Fallout,7.7,https://www.imdb.com/title/tt4912910
+231,"
+Crime, Drama, Mystery            ",Blue Velvet,7.7,https://www.imdb.com/title/tt0090756
+232,"
+Comedy, Drama, Romance            ",When Harry Met Sally...,7.7,https://www.imdb.com/title/tt0098635
+233,"
+Crime, Drama            ",Casino,8.2,https://www.imdb.com/title/tt0112641
+234,"
+Adventure, Comedy, Drama            ",Almost Famous,7.9,https://www.imdb.com/title/tt0181875
+235,"
+Action, Adventure, Comedy            ",The Blues Brothers,7.9,https://www.imdb.com/title/tt0080455
+236,"
+Biography, Crime, Drama            ",Spotlight,8.1,https://www.imdb.com/title/tt1895587
+237,"
+Action, Comedy, Mystery            ",Hot Fuzz,7.8,https://www.imdb.com/title/tt0425112
+238,"
+Biography, Drama, Thriller            ",The Imitation Game,8.0,https://www.imdb.com/title/tt2084970
+239,"
+Biography, Drama            ",A Beautiful Mind,8.2,https://www.imdb.com/title/tt0268978
+240,"
+Drama, Mystery, Thriller            ",The Game,7.7,https://www.imdb.com/title/tt0119174
+241,"
+Animation, Adventure, Comedy            ",Shrek,7.9,https://www.imdb.com/title/tt0126029
+242,"
+Animation, Adventure, Comedy            ",Despicable Me,7.6,https://www.imdb.com/title/tt1323594
+243,"
+Crime, Drama, Mystery            ",The Girl with the Dragon Tattoo,7.8,https://www.imdb.com/title/tt1568346
+244,"
+Comedy, Drama, Family            ",The Sandlot,7.8,https://www.imdb.com/title/tt0108037
+245,"
+Action, Adventure, Drama            ",The Revenant,8.0,https://www.imdb.com/title/tt1663202
+246,"
+Crime, Drama, Romance            ",True Romance,7.9,https://www.imdb.com/title/tt0108399
+247,"
+Drama, Horror, Sci-Fi            ",Frankenstein,7.8,https://www.imdb.com/title/tt0021884
+248,"
+Action, Adventure, Sci-Fi            ",X-Men: First Class,7.7,https://www.imdb.com/title/tt1270798
+249,"
+Crime, Drama, Mystery            ",Zodiac,7.7,https://www.imdb.com/title/tt0443706
+250,"
+Crime, Drama, Mystery            ",Memories of Murder,8.1,https://www.imdb.com/title/tt0353969
+251,"
+Animation, Drama, Fantasy            ",Your Name.,8.4,https://www.imdb.com/title/tt5311514
+252,"
+Adventure, Drama, Sci-Fi            ",The Martian,8.0,https://www.imdb.com/title/tt3659388
+253,"
+Biography, Drama, History            ",Hidden Figures,7.8,https://www.imdb.com/title/tt4846340
+254,"
+Adventure, Biography, Drama            ",Into the Wild,8.1,https://www.imdb.com/title/tt0758758
+255,"
+Drama, Horror, Mystery            ",The Birds,7.6,https://www.imdb.com/title/tt0056869
+256,"
+Drama, Mystery, Romance            ",Atonement,7.8,https://www.imdb.com/title/tt0783233
+257,"
+Comedy, Horror            ",Evil Dead II,7.7,https://www.imdb.com/title/tt0092991
+258,"
+Crime, Thriller            ",Fargo,8.1,https://www.imdb.com/title/tt0116282
+259,"
+Crime, Drama, Mystery            ",Mystic River,7.9,https://www.imdb.com/title/tt0327056
+260,"
+Action, Adventure, Comedy            ",Guardians of the Galaxy Vol. 2,7.6,https://www.imdb.com/title/tt3896198
+261,"
+Comedy            ",Airplane!,7.7,https://www.imdb.com/title/tt0080339
+262,"
+Adventure, Drama, Thriller            ",Deliverance,7.7,https://www.imdb.com/title/tt0068473
+263,"
+Drama, Family            ",Wonder,7.9,https://www.imdb.com/title/tt2543472
+264,"
+Drama, Romance            ",Portrait of a Lady on Fire,8.1,https://www.imdb.com/title/tt8613070
+265,"
+Horror, Thriller            ",Dawn of the Dead,7.8,https://www.imdb.com/title/tt0077402
+266,"
+Drama, Thriller            ",Room,8.1,https://www.imdb.com/title/tt3170832
+267,"
+Adventure, Comedy, Sci-Fi            ",Back to the Future Part II,7.8,https://www.imdb.com/title/tt0096874
+268,"
+Family, Fantasy, Musical            ",Willy Wonka & the Chocolate Factory,7.8,https://www.imdb.com/title/tt0067992
+269,"
+Animation, Action, Adventure            ",The Incredibles,8.0,https://www.imdb.com/title/tt0317705
+270,"
+Drama, Fantasy, Romance            ",The Curious Case of Benjamin Button,7.8,https://www.imdb.com/title/tt0421715
+271,"
+Animation, Adventure, Comedy            ",Zootopia,8.0,https://www.imdb.com/title/tt2948356
+272,"
+Action, Adventure, Sci-Fi            ",Star Wars: Episode VII - The Force Awakens,7.8,https://www.imdb.com/title/tt2488496
+273,"
+Action, Adventure, Fantasy            ",Star Wars: Episode V - The Empire Strikes Back,8.7,https://www.imdb.com/title/tt0080684
+274,"
+Drama, Sci-Fi, Thriller            ",The Butterfly Effect,7.6,https://www.imdb.com/title/tt0289879
+275,"
+Comedy, Drama            ",Lost in Translation,7.7,https://www.imdb.com/title/tt0335266
+276,"
+Biography, Drama, History            ",12 Years a Slave,8.1,https://www.imdb.com/title/tt2024544
+277,"
+Adventure, Comedy, Crime            ","O Brother, Where Art Thou?",7.7,https://www.imdb.com/title/tt0190590
+278,"
+Comedy, Crime            ",My Cousin Vinny,7.6,https://www.imdb.com/title/tt0104952
+279,"
+Comedy, Drama            ",Little Miss Sunshine,7.8,https://www.imdb.com/title/tt0449059
+280,"
+Comedy            ",Clerks,7.7,https://www.imdb.com/title/tt0109445
+281,"
+Biography, Drama, Romance            ",The Theory of Everything,7.7,https://www.imdb.com/title/tt2980516
+282,"
+Comedy, Drama            ",3 Idiots,8.4,https://www.imdb.com/title/tt1187043
+283,"
+Action, Adventure, Sci-Fi            ",Captain America: Civil War,7.8,https://www.imdb.com/title/tt3498820
+284,"
+Drama, Music            ",Sound of Metal,7.7,https://www.imdb.com/title/tt5363618
+285,"
+Action, Crime, Drama            ",Training Day,7.7,https://www.imdb.com/title/tt0139654
+286,"
+Comedy, Western            ",Blazing Saddles,7.7,https://www.imdb.com/title/tt0071230
+287,"
+Comedy            ",Office Space,7.7,https://www.imdb.com/title/tt0151804
+288,"
+Action, Crime, Thriller            ",I Saw the Devil,7.8,https://www.imdb.com/title/tt1588170
+289,"
+Crime, Drama            ",The Godfather Part III,7.6,https://www.imdb.com/title/tt0099674
+290,"
+Drama, Romance, War            ",Casablanca,8.5,https://www.imdb.com/title/tt0034583
+291,"
+Drama, Fantasy, Horror            ",Tumbbad,8.2,https://www.imdb.com/title/tt8239946
+292,"
+Mystery, Romance, Thriller            ",Vertigo,8.3,https://www.imdb.com/title/tt0052357
+293,"
+Action, Crime, Thriller            ",Taken,7.8,https://www.imdb.com/title/tt0936501
+294,"
+Drama, Romance            ",Before Sunrise,8.1,https://www.imdb.com/title/tt0112471
+295,"
+Action, Adventure, Drama            ",Apocalypto,7.8,https://www.imdb.com/title/tt0472043
+296,"
+Biography, Drama, Family            ",The Sound of Music,8.1,https://www.imdb.com/title/tt0059742
+297,"
+Drama, Music, Romance            ",A Star Is Born,7.6,https://www.imdb.com/title/tt1517451
+298,"
+Crime, Drama, Mystery            ",L.A. Confidential,8.2,https://www.imdb.com/title/tt0119488
+299,"
+Action, Adventure, Fantasy            ",Star Wars: Episode VI - Return of the Jedi,8.3,https://www.imdb.com/title/tt0086190
+300,"
+Drama            ",Manchester by the Sea,7.8,https://www.imdb.com/title/tt4034228
+301,"
+Action, Adventure, Thriller            ",First Blood,7.7,https://www.imdb.com/title/tt0083944
+302,"
+Comedy, Drama, Romance            ",Silver Linings Playbook,7.7,https://www.imdb.com/title/tt1045658
+303,"
+Drama, Thriller            ",The Machinist,7.7,https://www.imdb.com/title/tt0361862
+304,"
+Comedy, Drama            ",Another Round,7.7,https://www.imdb.com/title/tt10288566
+305,"
+Comedy, Drama            ",Birdman or (The Unexpected Virtue of Ignorance),7.7,https://www.imdb.com/title/tt2562232
+306,"
+Comedy, Romance            ",Amélie,8.3,https://www.imdb.com/title/tt0211915
+307,"
+Action, Adventure, Sci-Fi            ",X-Men: Days of Future Past,7.9,https://www.imdb.com/title/tt1877832
+308,"
+Animation, Adventure, Family            ",Howl's Moving Castle,8.2,https://www.imdb.com/title/tt0347149
+309,"
+Action, Biography, Drama            ",Rush,8.1,https://www.imdb.com/title/tt1979320
+310,"
+Animation, Adventure, Comedy            ",Tangled,7.7,https://www.imdb.com/title/tt0398286
+311,"
+Action, Comedy, Crime            ","Lock, Stock and Two Smoking Barrels",8.2,https://www.imdb.com/title/tt0120735
+312,"
+Crime, Drama, Mystery            ",Wind River,7.7,https://www.imdb.com/title/tt5362988
+313,"
+Action, Adventure, Fantasy            ",Star Wars: Episode III - Revenge of the Sith,7.6,https://www.imdb.com/title/tt0121766
+314,"
+Action, Drama, Sci-Fi            ",Children of Men,7.9,https://www.imdb.com/title/tt0206634
+315,"
+Action, Crime, Drama            ",The Fugitive,7.8,https://www.imdb.com/title/tt0106977
+316,"
+Drama, Family, Fantasy            ",It's a Wonderful Life,8.6,https://www.imdb.com/title/tt0038650
+317,"
+Animation, Family, Fantasy            ",Beauty and the Beast,8.0,https://www.imdb.com/title/tt0101414
+318,"
+Drama, Sci-Fi, Thriller            ",Gattaca,7.8,https://www.imdb.com/title/tt0119177
+319,"
+Comedy, Family, Fantasy            ",Mary Poppins,7.8,https://www.imdb.com/title/tt0058331
+320,"
+Animation, Adventure, Comedy            ",Up,8.3,https://www.imdb.com/title/tt1049413
+321,"
+Action, Adventure, Sci-Fi            ",Captain America: The Winter Soldier,7.8,https://www.imdb.com/title/tt1843866
+322,"
+Comedy, Drama, Romance            ",500 Days of Summer,7.7,https://www.imdb.com/title/tt1022603
+323,"
+Action, Sci-Fi, Thriller            ",District 9,7.9,https://www.imdb.com/title/tt1136608
+324,"
+Action, Crime, Mystery            ",Minority Report,7.7,https://www.imdb.com/title/tt0181689
+325,"
+Animation, Adventure, Comedy            ",Finding Nemo,8.2,https://www.imdb.com/title/tt0266543
+326,"
+Drama, Romance            ",Brokeback Mountain,7.7,https://www.imdb.com/title/tt0388795
+327,"
+Crime, Drama, Mystery            ",Inside Man,7.6,https://www.imdb.com/title/tt0454848
+328,"
+Drama, Mystery, Thriller            ",The Lives of Others,8.4,https://www.imdb.com/title/tt0405094
+329,"
+Animation, Adventure, Comedy            ",The Little Mermaid,7.6,https://www.imdb.com/title/tt0097757
+330,"
+Drama, War            ",Platoon,8.1,https://www.imdb.com/title/tt0091763
+331,"
+Animation, Adventure, Family            ",WALL·E,8.4,https://www.imdb.com/title/tt0910970
+332,"
+Drama, Sci-Fi            ",Metropolis,8.3,https://www.imdb.com/title/tt0017136
+333,"
+Adventure, Drama, Fantasy            ",Big Fish,8.0,https://www.imdb.com/title/tt0319061
+334,"
+Animation, Adventure, Comedy            ",Aladdin,8.0,https://www.imdb.com/title/tt0103639
+335,"
+Western            ",Once Upon a Time in the West,8.5,https://www.imdb.com/title/tt0064116
+336,"
+Biography, Drama, Sport            ",Moneyball,7.6,https://www.imdb.com/title/tt1210166
+337,"
+Animation, Adventure, Comedy            ",Who Framed Roger Rabbit,7.7,https://www.imdb.com/title/tt0096438
+338,"
+Comedy, War            ",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,https://www.imdb.com/title/tt0057012
+339,"
+Action, Crime, Sci-Fi            ",RoboCop,7.6,https://www.imdb.com/title/tt0093870
+340,"
+Biography, Drama, History            ",The King's Speech,8.0,https://www.imdb.com/title/tt1504320
+341,"
+Comedy, Drama            ",Captain Fantastic,7.8,https://www.imdb.com/title/tt3553976
+342,"
+Drama, Fantasy, Romance            ",Mr. Nobody,7.8,https://www.imdb.com/title/tt0485947
+343,"
+Comedy, Drama, Romance            ",Moonrise Kingdom,7.8,https://www.imdb.com/title/tt1748122
+344,"
+Comedy, Fantasy, Romance            ",Midnight in Paris,7.7,https://www.imdb.com/title/tt1605783
+345,"
+Comedy, Drama, Fantasy            ",Groundhog Day,8.1,https://www.imdb.com/title/tt0107048
+346,"
+Animation, Drama, War            ",Grave of the Fireflies,8.5,https://www.imdb.com/title/tt0095327
+347,"
+Biography, Drama, Thriller            ",Argo,7.7,https://www.imdb.com/title/tt1024648
+348,"
+Biography, Drama, History            ",Downfall,8.2,https://www.imdb.com/title/tt0363163
+349,"
+Animation, Action, Adventure            ",How to Train Your Dragon,8.1,https://www.imdb.com/title/tt0892769
+350,"
+Mystery, Thriller            ",Rear Window,8.5,https://www.imdb.com/title/tt0047396
+351,"
+Drama, Western            ",Unforgiven,8.2,https://www.imdb.com/title/tt0105695
+352,"
+Crime, Drama, Thriller            ",Hell or High Water,7.6,https://www.imdb.com/title/tt2582782
+353,"
+Drama, Sci-Fi, Thriller            ",Gravity,7.7,https://www.imdb.com/title/tt1454468
+354,"
+Animation, Adventure, Comedy            ",Soul,8.0,https://www.imdb.com/title/tt2948372
+355,"
+Drama, Thriller            ",A Few Good Men,7.7,https://www.imdb.com/title/tt0104257
+356,"
+Action, Adventure, Drama            ",The Last of the Mohicans,7.7,https://www.imdb.com/title/tt0104691
+357,"
+Drama, Romance, War            ",Gone with the Wind,8.2,https://www.imdb.com/title/tt0031381
+358,"
+Drama, Sci-Fi            ",Close Encounters of the Third Kind,7.6,https://www.imdb.com/title/tt0075860
+359,"
+Mystery, Sci-Fi, Thriller            ",12 Monkeys,8.0,https://www.imdb.com/title/tt0114746
+360,"
+Action, Crime, Thriller            ",Kill Bill: Vol. 2,8.0,https://www.imdb.com/title/tt0378194
+361,"
+Drama, Mystery            ",Incendies,8.3,https://www.imdb.com/title/tt1255953
+362,"
+Drama            ",Capernaum,8.4,https://www.imdb.com/title/tt8267604
+363,"
+Adventure, Comedy, Fantasy            ",Monty Python and the Holy Grail,8.2,https://www.imdb.com/title/tt0071853
+364,"
+Biography, Drama, Sport            ",Remember the Titans,7.8,https://www.imdb.com/title/tt0210945
+365,"
+Drama, Mystery            ",Citizen Kane,8.3,https://www.imdb.com/title/tt0033467
+366,"
+Biography, Drama            ",The Pursuit of Happyness,8.0,https://www.imdb.com/title/tt0454921
+367,"
+Drama, Mystery, Thriller            ",Chinatown,8.2,https://www.imdb.com/title/tt0071315
+368,"
+Animation, Adventure, Comedy            ",Fantastic Mr. Fox,7.9,https://www.imdb.com/title/tt0432283
+369,"
+Comedy, Crime, Thriller            ",Arsenic and Old Lace,7.9,https://www.imdb.com/title/tt0036613
+370,"
+Action, Mystery, Thriller            ",The Bourne Identity,7.9,https://www.imdb.com/title/tt0258463
+371,"
+Crime, Drama, Romance            ",Slumdog Millionaire,8.0,https://www.imdb.com/title/tt1010048
+372,"
+Action, Adventure, Drama            ",The Count of Monte Cristo,7.7,https://www.imdb.com/title/tt0245844
+373,"
+Biography, Crime, Drama            ",American Gangster,7.8,https://www.imdb.com/title/tt0765429
+374,"
+Comedy, Drama, Romance            ",The Graduate,8.0,https://www.imdb.com/title/tt0061722
+375,"
+Drama            ",What's Eating Gilbert Grape,7.7,https://www.imdb.com/title/tt0108550
+376,"
+Adventure, Drama, Romance            ",Cast Away,7.8,https://www.imdb.com/title/tt0162222
+377,"
+Adventure, Biography, Drama            ",Lawrence of Arabia,8.3,https://www.imdb.com/title/tt0056172
+378,"
+Drama, War            ",The Deer Hunter,8.1,https://www.imdb.com/title/tt0077416
+379,"
+Drama, Western            ",True Grit,7.6,https://www.imdb.com/title/tt1403865
+380,"
+Comedy, Music, Romance            ",Some Like It Hot,8.2,https://www.imdb.com/title/tt0053291
+381,"
+Animation, Action, Adventure            ",Kung Fu Panda,7.6,https://www.imdb.com/title/tt0441773
+382,"
+Crime, Drama, Thriller            ",The Untouchables,7.9,https://www.imdb.com/title/tt0094226
+383,"
+Comedy, Drama, Romance            ",As Good as It Gets,7.7,https://www.imdb.com/title/tt0119822
+384,"
+Animation, Adventure, Comedy            ",Toy Story 4,7.7,https://www.imdb.com/title/tt1979376
+385,"
+Biography, Drama            ",Dallas Buyers Club,7.9,https://www.imdb.com/title/tt0790636
+386,"
+Drama            ",Scent of a Woman,8.0,https://www.imdb.com/title/tt0105323
+387,"
+Crime, Drama            ",To Kill a Mockingbird,8.3,https://www.imdb.com/title/tt0056592
+388,"
+Drama, Horror            ",Freaks,7.8,https://www.imdb.com/title/tt0022913
+389,"
+Action, Crime, Drama            ",K.G.F: Chapter 2,8.4,https://www.imdb.com/title/tt10698680
+390,"
+Drama            ",Rain Man,8.0,https://www.imdb.com/title/tt0095953
+391,"
+Comedy, Drama            ",The Royal Tenenbaums,7.6,https://www.imdb.com/title/tt0265666
+392,"
+Action, Adventure            ",Indiana Jones and the Last Crusade,8.2,https://www.imdb.com/title/tt0097576
+393,"
+Crime, Drama, Thriller            ",Crash,7.8,https://www.imdb.com/title/tt0375679
+394,"
+Drama, History, War            ",Empire of the Sun,7.7,https://www.imdb.com/title/tt0092965
+395,"
+Drama, History, War            ",The Thin Red Line,7.6,https://www.imdb.com/title/tt0120863
+396,"
+Drama, Horror, Mystery            ",The Skin I Live In,7.6,https://www.imdb.com/title/tt1189073
+397,"
+Action, Biography, Drama            ",The Fighter,7.8,https://www.imdb.com/title/tt0964517
+398,"
+Action, Crime, Drama            ",3:10 to Yuma,7.7,https://www.imdb.com/title/tt0381849
+399,"
+Drama, Romance            ",The Fault in Our Stars,7.7,https://www.imdb.com/title/tt2582846
+400,"
+Drama, War            ",The Boy in the Striped Pajamas,7.7,https://www.imdb.com/title/tt0914798
+401,"
+Action, Drama            ",Seven Samurai,8.6,https://www.imdb.com/title/tt0047478
+402,"
+Adventure, Drama, Fantasy            ",Life of Pi,7.9,https://www.imdb.com/title/tt0454876
+403,"
+Action, Drama            ",The Last Samurai,7.8,https://www.imdb.com/title/tt0325710
+404,"
+Action, Adventure, Sci-Fi            ",Star Trek Into Darkness,7.7,https://www.imdb.com/title/tt1408101
+405,"
+Crime, Drama, Thriller            ",Road to Perdition,7.7,https://www.imdb.com/title/tt0257044
+406,"
+Animation, Action, Adventure            ",Princess Mononoke,8.4,https://www.imdb.com/title/tt0119698
+407,"
+Adventure, Drama, History            ",Apollo 13,7.7,https://www.imdb.com/title/tt0112384
+408,"
+Drama            ",Magnolia,8.0,https://www.imdb.com/title/tt0175880
+409,"
+Action, Adventure, Sci-Fi            ",Serenity,7.8,https://www.imdb.com/title/tt0379786
+410,"
+Horror            ",The Innocents,7.8,https://www.imdb.com/title/tt0055018
+411,"
+Action, Crime, Thriller            ",Lethal Weapon,7.6,https://www.imdb.com/title/tt0093409
+412,"
+Action, Crime, Drama            ",Vikram Vedha,8.3,https://www.imdb.com/title/tt6148156
+413,"
+Biography, Drama            ",Rocketry: The Nambi Effect,8.8,https://www.imdb.com/title/tt9263550
+414,"
+Adventure, Drama, Thriller            ",Blood Diamond,8.0,https://www.imdb.com/title/tt0450259
+415,"
+Crime, Drama, Mystery            ",The Invisible Guest,8.0,https://www.imdb.com/title/tt4857264
+416,"
+Drama, Mystery, Romance            ",The Secret in Their Eyes,8.2,https://www.imdb.com/title/tt1305806
+417,"
+Animation, Adventure, Comedy            ",Toy Story 3,8.3,https://www.imdb.com/title/tt0435761
+418,"
+Drama            ",The Color Purple,7.7,https://www.imdb.com/title/tt0088939
+419,"
+Comedy, Drama, Romance            ",Me and Earl and the Dying Girl,7.7,https://www.imdb.com/title/tt2582496
+420,"
+Drama, Sci-Fi            ",Brazil,7.9,https://www.imdb.com/title/tt0088846
+421,"
+Drama, Mystery, Sci-Fi            ",Moon,7.8,https://www.imdb.com/title/tt1182345
+422,"
+Biography, Drama            ",Lion,8.0,https://www.imdb.com/title/tt3741834
+423,"
+Comedy, Drama, Thriller            ",Wild Tales,8.1,https://www.imdb.com/title/tt3011894
+424,"
+Drama, Romance            ",In the Mood for Love,8.1,https://www.imdb.com/title/tt0118694
+425,"
+Animation, Adventure, Comedy            ",Mulan,7.6,https://www.imdb.com/title/tt0120762
+426,"
+Drama, Romance            ",The Last Picture Show,8.0,https://www.imdb.com/title/tt0067328
+427,"
+Crime, Drama            ",A Bronx Tale,7.8,https://www.imdb.com/title/tt0106489
+428,"
+Drama, Sport            ",Million Dollar Baby,8.1,https://www.imdb.com/title/tt0405159
+429,"
+Drama, History, Thriller            ",The Trial of the Chicago 7,7.7,https://www.imdb.com/title/tt1070874
+430,"
+Action, Adventure, Thriller            ",Goldfinger,7.7,https://www.imdb.com/title/tt0058150
+431,"
+Crime, Drama            ",Boyz n the Hood,7.8,https://www.imdb.com/title/tt0101507
+432,"
+Crime, Drama, Thriller            ",21 Grams,7.6,https://www.imdb.com/title/tt0315733
+433,"
+Action, Adventure, Thriller            ",Die Hard with a Vengeance,7.6,https://www.imdb.com/title/tt0112864
+434,"
+Adventure, Drama, Western            ",Dances with Wolves,8.0,https://www.imdb.com/title/tt0099348
+435,"
+Action, Adventure, Mystery            ",North by Northwest,8.3,https://www.imdb.com/title/tt0053125
+436,"
+Animation, Crime, Drama            ",Perfect Blue,8.0,https://www.imdb.com/title/tt0156887
+437,"
+Comedy, Crime, Drama            ",The Sting,8.3,https://www.imdb.com/title/tt0070735
+438,"
+Drama            ",Who's Afraid of Virginia Woolf?,8.0,https://www.imdb.com/title/tt0061184
+439,"
+Animation, Action, Adventure            ",The Iron Giant,8.1,https://www.imdb.com/title/tt0129167
+440,"
+Biography, Drama, History            ",Dark Waters,7.6,https://www.imdb.com/title/tt9071322
+441,"
+Animation, Adventure, Comedy            ",Wreck-It Ralph,7.7,https://www.imdb.com/title/tt1772341
+442,"
+Drama, Romance            ",Sense and Sensibility,7.7,https://www.imdb.com/title/tt0114388
+443,"
+Drama            ",Gran Torino,8.1,https://www.imdb.com/title/tt1205489
+444,"
+Animation, Comedy, Family            ",My Neighbor Totoro,8.1,https://www.imdb.com/title/tt0096283
+445,"
+Action, Thriller            ",Vikram,8.4,https://www.imdb.com/title/tt9179430
+446,"
+Drama, Romance            ",Cinema Paradiso,8.5,https://www.imdb.com/title/tt0095765
+447,"
+Comedy, Drama            ",Do the Right Thing,7.9,https://www.imdb.com/title/tt0097216
+448,"
+Adventure, Comedy, Family            ",Paddington 2,7.8,https://www.imdb.com/title/tt4468740
+449,"
+Drama, War            ",The Boat,8.4,https://www.imdb.com/title/tt0082096
+450,"
+Biography, Drama, History            ",Straight Outta Compton,7.8,https://www.imdb.com/title/tt1398426
+451,"
+Drama            ",Rebel Without a Cause,7.6,https://www.imdb.com/title/tt0048545
+452,"
+Animation, Action, Adventure            ",The Lego Movie,7.7,https://www.imdb.com/title/tt1490017
+453,"
+Crime, Drama            ","Blood In, Blood Out",7.9,https://www.imdb.com/title/tt0106469
+454,"
+Crime, Drama            ",Cool Hand Luke,8.1,https://www.imdb.com/title/tt0061512
+455,"
+Drama, Horror, Thriller            ",What Ever Happened to Baby Jane?,8.0,https://www.imdb.com/title/tt0056687
+456,"
+Biography, Drama, Music            ",Walk the Line,7.8,https://www.imdb.com/title/tt0358273
+457,"
+Crime, Drama            ",Dogville,8.0,https://www.imdb.com/title/tt0276919
+458,"
+Fantasy, Mystery, Sci-Fi            ",Dark City,7.6,https://www.imdb.com/title/tt0118929
+459,"
+Animation, Action, Adventure            ",Big Hero 6,7.8,https://www.imdb.com/title/tt2245084
+460,"
+Animation, Adventure, Comedy            ",Toy Story 2,7.9,https://www.imdb.com/title/tt0120363
+461,"
+Crime, Drama, Thriller            ",Eastern Promises,7.6,https://www.imdb.com/title/tt0765443
+462,"
+Biography, Drama, Sport            ",Raging Bull,8.2,https://www.imdb.com/title/tt0081398
+463,"
+Biography, Crime, Drama            ",Changeling,7.8,https://www.imdb.com/title/tt0824747
+464,"
+Adventure, Drama, History            ",The Great Escape,8.2,https://www.imdb.com/title/tt0057115
+465,"
+Biography, Crime, Drama            ",Butch Cassidy and the Sundance Kid,8.0,https://www.imdb.com/title/tt0064115
+466,"
+Biography, Crime, Drama            ",Donnie Brasco,7.7,https://www.imdb.com/title/tt0119008
+467,"
+Comedy, Music            ",This Is Spinal Tap,7.9,https://www.imdb.com/title/tt0088258
+468,"
+Animation, Adventure, Family            ",Snow White and the Seven Dwarfs,7.6,https://www.imdb.com/title/tt0029583
+469,"
+Action, Adventure, Sci-Fi            ",The Road Warrior,7.6,https://www.imdb.com/title/tt0082694
+470,"
+Drama            ",Sling Blade,8.0,https://www.imdb.com/title/tt0117666
+471,"
+Action, Thriller            ",The Boondock Saints,7.7,https://www.imdb.com/title/tt0144117
+472,"
+Animation, Adventure, Comedy            ",The Mitchells vs the Machines,7.6,https://www.imdb.com/title/tt7979580
+473,"
+Drama            ",Boyhood,7.9,https://www.imdb.com/title/tt1065073
+474,"
+Crime, Drama, Mystery            ",Glengarry Glen Ross,7.7,https://www.imdb.com/title/tt0104348
+475,"
+Drama, Sci-Fi            ",Stalker,8.1,https://www.imdb.com/title/tt0079944
+476,"
+Comedy, Drama, Fantasy            ",Being John Malkovich,7.8,https://www.imdb.com/title/tt0120601
+477,"
+Comedy, Crime            ",The Naked Gun: From the Files of Police Squad!,7.6,https://www.imdb.com/title/tt0095705
+478,"
+Biography, Crime, Drama            ",Dog Day Afternoon,8.0,https://www.imdb.com/title/tt0072890
+479,"
+Action, Drama            ",Baahubali: The Beginning,8.0,https://www.imdb.com/title/tt2631186
+480,"
+Action, Adventure, Crime            ",End of Watch,7.6,https://www.imdb.com/title/tt1855199
+481,"
+Biography, Drama            ",Awakenings,7.8,https://www.imdb.com/title/tt0099077
+482,"
+Action, Adventure, Drama            ","Crouching Tiger, Hidden Dragon",7.9,https://www.imdb.com/title/tt0190332
+483,"
+Comedy            ",Life of Brian,8.0,https://www.imdb.com/title/tt0079470
+484,"
+Crime, Drama, Mystery            ",Gone Baby Gone,7.6,https://www.imdb.com/title/tt0452623
+485,"
+Adventure, Comedy, Drama            ",Hunt for the Wilderpeople,7.8,https://www.imdb.com/title/tt4698684
+486,"
+Adventure, Drama, Family            ",The Ten Commandments,7.9,https://www.imdb.com/title/tt0049833
+487,"
+Comedy, Musical, Romance            ",Singin' in the Rain,8.3,https://www.imdb.com/title/tt0045152
+488,"
+Crime, Drama, Thriller            ",Carlito's Way,7.9,https://www.imdb.com/title/tt0106519
+489,"
+Animation, Action, Drama            ",Akira,8.0,https://www.imdb.com/title/tt0094625
+490,"
+Drama, Romance            ",Before Sunset,8.1,https://www.imdb.com/title/tt0381681
+491,"
+Action, Biography, Crime            ",Captain Phillips,7.8,https://www.imdb.com/title/tt1535109
+492,"
+Drama            ",Philadelphia,7.7,https://www.imdb.com/title/tt0107818
+493,"
+Drama, Romance            ",The Remains of the Day,7.8,https://www.imdb.com/title/tt0107943
+494,"
+Horror, Sci-Fi            ",The Invisible Man,7.6,https://www.imdb.com/title/tt0024184
+495,"
+Drama, History, Thriller            ",Bridge of Spies,7.6,https://www.imdb.com/title/tt3682448
+496,"
+Adventure, Drama, Thriller            ",The Wages of Fear,8.2,https://www.imdb.com/title/tt0046268
+497,"
+Drama, Film-Noir, Mystery            ",Rebecca,8.1,https://www.imdb.com/title/tt0032976
+498,"
+Drama, Film-Noir, Mystery            ",In a Lonely Place,7.9,https://www.imdb.com/title/tt0042593
+499,"
+Drama            ",Midnight Cowboy,7.8,https://www.imdb.com/title/tt0064665
+500,"
+Drama            ",A Separation,8.3,https://www.imdb.com/title/tt1832382
+501,"
+Action, Crime, Drama            ",Enter the Dragon,7.6,https://www.imdb.com/title/tt0070034
+502,"
+Adventure, Drama, Fantasy            ",The Holy Mountain,7.8,https://www.imdb.com/title/tt0071615
+503,"
+Drama            ",Fried Green Tomatoes,7.7,https://www.imdb.com/title/tt0101921
+504,"
+Biography, Drama, Family            ",Hachi: A Dog's Tale,8.1,https://www.imdb.com/title/tt1028532
+505,"
+Biography, Comedy, Drama            ",Ed Wood,7.8,https://www.imdb.com/title/tt0109707
+506,"
+Crime, Drama            ",La haine,8.1,https://www.imdb.com/title/tt0113247
+507,"
+Comedy, Drama            ",Naked,7.7,https://www.imdb.com/title/tt0107653
+508,"
+Action, Biography, Drama            ",Dangal,8.3,https://www.imdb.com/title/tt5074352
+509,"
+Crime, Drama            ",This Is England,7.7,https://www.imdb.com/title/tt0480025
+510,"
+Drama, History, Thriller            ",JFK,8.0,https://www.imdb.com/title/tt0102138
+511,"
+Adventure, Drama, Fantasy            ",The Fall,7.8,https://www.imdb.com/title/tt0460791
+512,"
+Drama, Film-Noir            ",Sunset Blvd.,8.4,https://www.imdb.com/title/tt0043014
+513,"
+Drama            ",Roma,7.7,https://www.imdb.com/title/tt6155172
+514,"
+Crime, Drama, Mystery            ",Gaslight,7.8,https://www.imdb.com/title/tt0036855
+515,"
+Adventure, Biography, Drama            ",Spartacus,7.9,https://www.imdb.com/title/tt0054331
+516,"
+Action, Crime, Thriller            ",The Raid: Redemption,7.6,https://www.imdb.com/title/tt1899353
+517,"
+Drama            ",Ordinary People,7.7,https://www.imdb.com/title/tt0081283
+518,"
+Biography, Drama            ",The Elephant Man,8.2,https://www.imdb.com/title/tt0080678
+519,"
+Adventure, Sci-Fi            ",Planet of the Apes,8.0,https://www.imdb.com/title/tt0063442
+520,"
+Action, Drama, Western            ",A Fistful of Dollars,7.9,https://www.imdb.com/title/tt0058461
+521,"
+Drama, Thriller            ",The Manchurian Candidate,7.9,https://www.imdb.com/title/tt0056218
+522,"
+Animation, Adventure, Comedy            ",Isle of Dogs,7.8,https://www.imdb.com/title/tt5104604
+523,"
+Crime, Drama            ",Lord of War,7.6,https://www.imdb.com/title/tt0399295
+524,"
+Action, Mystery, Thriller            ",The Bourne Supremacy,7.7,https://www.imdb.com/title/tt0372183
+525,"
+Action, Crime, Thriller            ",Dirty Harry,7.7,https://www.imdb.com/title/tt0066999
+526,"
+Comedy, Romance            ",Annie Hall,8.0,https://www.imdb.com/title/tt0075686
+527,"
+Drama, Fantasy, Mystery            ",The Man from Earth,7.9,https://www.imdb.com/title/tt0756683
+528,"
+Crime, Drama, Thriller            ",Traffic,7.6,https://www.imdb.com/title/tt0181865
+529,"
+Crime, Drama, Mystery            ",The Girl with the Dragon Tattoo,7.8,https://www.imdb.com/title/tt1132620
+530,"
+Drama            ","Paris, Texas",8.1,https://www.imdb.com/title/tt0087884
+531,"
+Action, Mystery, Thriller            ",The Bourne Ultimatum,8.0,https://www.imdb.com/title/tt0440963
+532,"
+Drama, Romance            ",Belle de Jour,7.7,https://www.imdb.com/title/tt0061395
+533,"
+Drama            ",Seven Pounds,7.6,https://www.imdb.com/title/tt0814314
+534,"
+Drama, Romance, Thriller            ",Match Point,7.6,https://www.imdb.com/title/tt0416320
+535,"
+Biography, Crime, Drama            ",Serpico,7.7,https://www.imdb.com/title/tt0070666
+536,"
+Adventure, Drama, War            ",The Bridge on the River Kwai,8.2,https://www.imdb.com/title/tt0050212
+537,"
+Action, Comedy, Fantasy            ",Kung Fu Hustle,7.7,https://www.imdb.com/title/tt0373074
+538,"
+Horror, Mystery, Thriller            ",The Cabinet of Dr. Caligari,8.0,https://www.imdb.com/title/tt0010323
+539,"
+Comedy, Romance            ",It Happened One Night,8.1,https://www.imdb.com/title/tt0025316
+540,"
+Drama, Sci-Fi            ",The Day the Earth Stood Still,7.8,https://www.imdb.com/title/tt0043456
+541,"
+Drama, Mystery, Thriller            ",The Name of the Rose,7.7,https://www.imdb.com/title/tt0091605
+542,"
+Comedy, Crime, Drama            ",Chungking Express,8.0,https://www.imdb.com/title/tt0109424
+543,"
+Drama, Romance, War            ",From Here to Eternity,7.6,https://www.imdb.com/title/tt0045793
+544,"
+Animation, Adventure, Family            ",Kiki's Delivery Service,7.8,https://www.imdb.com/title/tt0097814
+545,"
+Animation, Adventure, Comedy            ",Klaus,8.1,https://www.imdb.com/title/tt4729430
+546,"
+Animation, Adventure, Comedy            ",The Jungle Book,7.6,https://www.imdb.com/title/tt0061852
+547,"
+Comedy, Drama, Romance            ",Flipped,7.7,https://www.imdb.com/title/tt0817177
+548,"
+Drama            ",Network,8.1,https://www.imdb.com/title/tt0074958
+549,"
+Drama, Thriller            ",Amores perros,8.1,https://www.imdb.com/title/tt0245712
+550,"
+Animation, Drama            ",A Silent Voice: The Movie,8.1,https://www.imdb.com/title/tt5323662
+551,"
+Crime, Mystery, Thriller            ",M,8.3,https://www.imdb.com/title/tt0022100
+552,"
+Drama, Horror, Mystery            ",Searching,7.6,https://www.imdb.com/title/tt7668870
+553,"
+Drama, History, Thriller            ",All the President's Men,7.9,https://www.imdb.com/title/tt0074119
+554,"
+Comedy, Drama, Romance            ",Rushmore,7.6,https://www.imdb.com/title/tt0128445
+555,"
+Drama, Romance            ",Before Midnight,7.9,https://www.imdb.com/title/tt2209418
+556,"
+Drama, Sport            ",The Wrestler,7.9,https://www.imdb.com/title/tt1125849
+557,"
+Comedy, Drama, Music            ",Sing Street,7.9,https://www.imdb.com/title/tt3544112
+558,"
+Drama, Romance            ",The Bridges of Madison County,7.6,https://www.imdb.com/title/tt0112579
+559,"
+Drama, Romance, War            ",Doctor Zhivago,7.9,https://www.imdb.com/title/tt0059113
+560,"
+Biography, Drama, Music            ",Ray,7.7,https://www.imdb.com/title/tt0350258
+561,"
+Animation, Action, Crime            ",Ghost in the Shell,7.9,https://www.imdb.com/title/tt0113568
+562,"
+Biography, Drama, History            ",Glory,7.8,https://www.imdb.com/title/tt0097441
+563,"
+Comedy, Drama, Romance            ",The Apartment,8.3,https://www.imdb.com/title/tt0053604
+564,"
+Comedy, Drama            ",Adaptation.,7.7,https://www.imdb.com/title/tt0268126
+565,"
+Action, Drama, Mystery            ",Harakiri,8.6,https://www.imdb.com/title/tt0056058
+566,"
+Drama, Fantasy            ",The Seventh Seal,8.1,https://www.imdb.com/title/tt0050976
+567,"
+Animation, Action, Adventure            ",Demon Slayer the Movie: Mugen Train,8.2,https://www.imdb.com/title/tt11032374
+568,"
+Action, Drama            ",Baahubali 2: The Conclusion,8.2,https://www.imdb.com/title/tt4849438
+569,"
+Action, Adventure, Western            ",The Magnificent Seven,7.7,https://www.imdb.com/title/tt0054047
+570,"
+Crime, Drama, Mystery            ",The Best Offer,7.8,https://www.imdb.com/title/tt1924396
+571,"
+Biography, Crime, Drama            ",In the Name of the Father,8.1,https://www.imdb.com/title/tt0107207
+572,"
+Action, Biography, Crime            ",Bonnie and Clyde,7.7,https://www.imdb.com/title/tt0061418
+573,"
+Biography, Drama            ",Gandhi,8.1,https://www.imdb.com/title/tt0083987
+574,"
+Biography, Crime, Drama            ",Papillon,8.0,https://www.imdb.com/title/tt0070511
+575,"
+Action, Biography, Drama            ",Ip Man,8.0,https://www.imdb.com/title/tt1220719
+576,"
+Comedy, Crime, Drama            ",After Hours,7.6,https://www.imdb.com/title/tt0088680
+577,"
+Crime, Drama, Mystery            ",Rope,7.9,https://www.imdb.com/title/tt0040746
+578,"
+Comedy, Crime, Drama            ",The King of Comedy,7.8,https://www.imdb.com/title/tt0085794
+579,"
+Drama            ",East of Eden,7.8,https://www.imdb.com/title/tt0048028
+580,"
+Animation, Action, Adventure            ",How to Train Your Dragon 2,7.8,https://www.imdb.com/title/tt1646971
+581,"
+Drama, War            ",Paths of Glory,8.4,https://www.imdb.com/title/tt0050825
+582,"
+Drama            ",The Great Beauty,7.7,https://www.imdb.com/title/tt2358891
+583,"
+Crime, Drama, Mystery            ",Jai Bhim,8.9,https://www.imdb.com/title/tt15097216
+584,"
+Drama, Horror, Sci-Fi            ",Invasion of the Body Snatchers,7.7,https://www.imdb.com/title/tt0049366
+585,"
+Drama, Thriller, Western            ",High Noon,8.0,https://www.imdb.com/title/tt0044706
+586,"
+Drama, Thriller            ",Persona,8.1,https://www.imdb.com/title/tt0060827
+587,"
+Drama, Music, Musical            ",Cabaret,7.8,https://www.imdb.com/title/tt0068327
+588,"
+Biography, Drama, History            ",Hotel Rwanda,8.1,https://www.imdb.com/title/tt0395169
+589,"
+Biography, Drama, Family            ",October Sky,7.8,https://www.imdb.com/title/tt0132477
+590,"
+Crime, Drama, Mystery            ",Witness for the Prosecution,8.4,https://www.imdb.com/title/tt0051201
+591,"
+Animation, Adventure, Comedy            ",Ponyo,7.6,https://www.imdb.com/title/tt0876563
+592,"
+Western            ",For a Few Dollars More,8.2,https://www.imdb.com/title/tt0059578
+593,"
+Crime, Drama, Thriller            ",On the Waterfront,8.1,https://www.imdb.com/title/tt0047296
+594,"
+Action, Drama, War            ",Ran,8.2,https://www.imdb.com/title/tt0089881
+595,"
+Drama, Family, Musical            ",My Fair Lady,7.8,https://www.imdb.com/title/tt0058385
+596,"
+Drama, Mystery, Thriller            ",The Conversation,7.8,https://www.imdb.com/title/tt0071360
+597,"
+Drama, Music            ",Billy Elliot,7.7,https://www.imdb.com/title/tt0249462
+598,"
+Action, Adventure, Drama            ",Dawn of the Planet of the Apes,7.6,https://www.imdb.com/title/tt2103281
+599,"
+Comedy, Mystery, Romance            ",Charade,7.9,https://www.imdb.com/title/tt0056923
+600,"
+Crime, Drama, Thriller            ",Lucky Number Slevin,7.7,https://www.imdb.com/title/tt0425210
+601,"
+Crime, Drama, History            ",Mississippi Burning,7.8,https://www.imdb.com/title/tt0095647
+602,"
+Mystery, Thriller            ",The Vanishing,7.7,https://www.imdb.com/title/tt0096163
+603,"
+Action, Crime, Drama            ",The French Connection,7.7,https://www.imdb.com/title/tt0067116
+604,"
+Drama, Mystery, Sci-Fi            ",Solaris,8.0,https://www.imdb.com/title/tt0069293
+605,"
+Action, Adventure, Crime            ",Kaithi,8.5,https://www.imdb.com/title/tt9900782
+606,"
+Adventure, Drama, Western            ",The Searchers,7.9,https://www.imdb.com/title/tt0049730
+607,"
+Action, Crime, Thriller            ",The Taking of Pelham One Two Three,7.6,https://www.imdb.com/title/tt0072251
+608,"
+Biography, Drama, History            ",Malcolm X,7.7,https://www.imdb.com/title/tt0104797
+609,"
+Drama            ",A Streetcar Named Desire,7.9,https://www.imdb.com/title/tt0044081
+610,"
+Biography, Drama, Romance            ",Cinderella Man,8.0,https://www.imdb.com/title/tt0352248
+611,"
+Film-Noir, Mystery, Thriller            ",The Third Man,8.1,https://www.imdb.com/title/tt0041959
+612,"
+Crime, Drama, Mystery            ",Drishyam,8.2,https://www.imdb.com/title/tt4430212
+613,"
+Biography, Comedy, Drama            ",Pride,7.8,https://www.imdb.com/title/tt3169706
+614,"
+Western            ",The Outlaw Josey Wales,7.8,https://www.imdb.com/title/tt0075029
+615,"
+Drama            ",Detachment,7.7,https://www.imdb.com/title/tt1683526
+616,"
+Comedy, Drama            ",Happiness,7.7,https://www.imdb.com/title/tt0147612
+617,"
+Action, Adventure, Sci-Fi            ",Star Trek II: The Wrath of Khan,7.7,https://www.imdb.com/title/tt0084726
+618,"
+Action, Adventure, Western            ",The Wild Bunch,7.9,https://www.imdb.com/title/tt0065214
+619,"
+Comedy, Drama            ",Perfect Strangers,7.7,https://www.imdb.com/title/tt4901306
+620,"
+Crime, Drama, Mystery            ",Mother,7.8,https://www.imdb.com/title/tt1216496
+621,"
+Comedy, Drama            ",La dolce vita,8.0,https://www.imdb.com/title/tt0053779
+622,"
+Crime, Thriller            ",Dial M for Murder,8.2,https://www.imdb.com/title/tt0046912
+623,"
+Crime, Drama, Musical            ",Dancer in the Dark,7.9,https://www.imdb.com/title/tt0168629
+624,"
+Drama            ",8½,8.0,https://www.imdb.com/title/tt0056801
+625,"
+Action, Adventure, Drama            ",Letters from Iwo Jima,7.9,https://www.imdb.com/title/tt0498380
+626,"
+Comedy, Drama            ",Being There,8.0,https://www.imdb.com/title/tt0078841
+627,"
+Drama            ",I Am Sam,7.6,https://www.imdb.com/title/tt0277027
+628,"
+Drama            ",Ikiru,8.3,https://www.imdb.com/title/tt0044741
+629,"
+Biography, Drama, Thriller            ",The Insider,7.8,https://www.imdb.com/title/tt0140352
+630,"
+Drama, Family, Musical            ",Fiddler on the Roof,8.0,https://www.imdb.com/title/tt0067093
+631,"
+Biography, Drama, History            ",The Last King of Scotland,7.6,https://www.imdb.com/title/tt0455590
+632,"
+Drama, Fantasy, Music            ",Pink Floyd: The Wall,8.0,https://www.imdb.com/title/tt0084503
+633,"
+Crime, Drama, Film-Noir            ",Double Indemnity,8.3,https://www.imdb.com/title/tt0036775
+634,"
+Action, Crime, Drama            ",K.G.F: Chapter 1,8.2,https://www.imdb.com/title/tt7838252
+635,"
+Animation, Action, Adventure            ",Kubo and the Two Strings,7.7,https://www.imdb.com/title/tt4302938
+636,"
+Comedy, Drama, Sci-Fi            ",PK,8.1,https://www.imdb.com/title/tt2338151
+637,"
+Crime, Film-Noir, Mystery            ",The Maltese Falcon,8.0,https://www.imdb.com/title/tt0033870
+638,"
+Action, Adventure, Drama            ",Hero,7.9,https://www.imdb.com/title/tt0299977
+639,"
+Comedy, Drama, Romance            ",50/50,7.6,https://www.imdb.com/title/tt1306980
+640,"
+Adventure, Biography, Drama            ",Togo,7.9,https://www.imdb.com/title/tt5116302
+641,"
+Drama            ",Kramer vs. Kramer,7.8,https://www.imdb.com/title/tt0079417
+642,"
+Comedy, Drama, Thriller            ",Barton Fink,7.6,https://www.imdb.com/title/tt0101410
+643,"
+Crime, Drama, Thriller            ",Shoplifters,7.9,https://www.imdb.com/title/tt8075192
+644,"
+Comedy, Romance            ",Roman Holiday,8.0,https://www.imdb.com/title/tt0046250
+645,"
+Drama, Horror            ",Eyes Without a Face,7.6,https://www.imdb.com/title/tt0053459
+646,"
+Drama            ",All About Eve,8.2,https://www.imdb.com/title/tt0042192
+647,"
+Comedy, Drama, Romance            ",Harold and Maude,7.9,https://www.imdb.com/title/tt0067185
+648,"
+Biography, Drama, Family            ",Finding Neverland,7.7,https://www.imdb.com/title/tt0308644
+649,"
+Adventure, Biography, Drama            ",The Right Stuff,7.8,https://www.imdb.com/title/tt0086197
+650,"
+Action, Crime, Thriller            ",The Raid 2,7.9,https://www.imdb.com/title/tt2265171
+651,"
+Adventure, Horror, Sci-Fi            ",King Kong,7.9,https://www.imdb.com/title/tt0024216
+652,"
+Drama, Mystery, Thriller            ",In the Heat of the Night,7.9,https://www.imdb.com/title/tt0061811
+653,"
+Comedy, Romance            ",The Philadelphia Story,7.9,https://www.imdb.com/title/tt0032904
+654,"
+Drama, Fantasy, Romance            ",Wings of Desire,8.0,https://www.imdb.com/title/tt0093191
+655,"
+Crime, Drama, Thriller            ",Miller's Crossing,7.7,https://www.imdb.com/title/tt0100150
+656,"
+Animation, Comedy, Drama            ",Mary and Max,8.1,https://www.imdb.com/title/tt0978762
+657,"
+Comedy, Drama            ",The Station Agent,7.6,https://www.imdb.com/title/tt0340377
+658,"
+Crime, Drama, Film-Noir            ",Touch of Evil,8.0,https://www.imdb.com/title/tt0052311
+659,"
+Drama, Horror, Thriller            ",Repulsion,7.6,https://www.imdb.com/title/tt0059646
+660,"
+Drama            ",Hamlet,7.8,https://www.imdb.com/title/tt0116477
+661,"
+Action, Drama, History            ",The Longest Day,7.7,https://www.imdb.com/title/tt0056197
+662,"
+Drama, Mystery, Sci-Fi            ",Open Your Eyes,7.7,https://www.imdb.com/title/tt0125659
+663,"
+Crime, Drama            ",Breathless,7.7,https://www.imdb.com/title/tt0053472
+664,"
+Drama, Music, Musical            ",All That Jazz,7.8,https://www.imdb.com/title/tt0078754
+665,"
+Comedy, Drama, Romance            ",Manhattan,7.9,https://www.imdb.com/title/tt0079522
+666,"
+Animation, Biography, Crime            ",Loving Vincent,7.8,https://www.imdb.com/title/tt3262342
+667,"
+Drama            ",Amour,7.9,https://www.imdb.com/title/tt1602620
+668,"
+Crime, Drama, Film-Noir            ",The Night of the Hunter,8.0,https://www.imdb.com/title/tt0048424
+669,"
+Drama, Music, Mystery            ",Three Colors: Blue,7.9,https://www.imdb.com/title/tt0108394
+670,"
+Drama            ",Mommy,8.0,https://www.imdb.com/title/tt3612616
+671,"
+Animation, Adventure, Family            ",Castle in the Sky,8.0,https://www.imdb.com/title/tt0092067
+672,"
+Animation, Action, Adventure            ",Dragon Ball Super: Broly,7.7,https://www.imdb.com/title/tt7961060
+673,"
+Action, Crime, Drama            ",The Chaser,7.8,https://www.imdb.com/title/tt1190539
+674,"
+Drama, Thriller, War            ",Black Book,7.7,https://www.imdb.com/title/tt0389557
+675,"
+Animation, Family, Fantasy            ",Fantasia,7.7,https://www.imdb.com/title/tt0032455
+676,"
+Action, Drama, History            ",United 93,7.6,https://www.imdb.com/title/tt0475276
+677,"
+Animation, Drama, Fantasy            ",Paprika,7.7,https://www.imdb.com/title/tt0851578
+678,"
+Drama            ",The Celebration,8.1,https://www.imdb.com/title/tt0154420
+679,"
+Comedy, Drama, War            ",The Great Dictator,8.4,https://www.imdb.com/title/tt0032553
+680,"
+Western            ",Rio Bravo,8.0,https://www.imdb.com/title/tt0053221
+681,"
+Drama, Romance, War            ",The Best Years of Our Lives,8.1,https://www.imdb.com/title/tt0036868
+682,"
+Animation, Adventure, Sci-Fi            ",Nausicaä of the Valley of the Wind,8.0,https://www.imdb.com/title/tt0087544
+683,"
+Crime, Drama, Film-Noir            ",Strangers on a Train,7.9,https://www.imdb.com/title/tt0044079
+684,"
+Animation, Action, Drama            ",Neon Genesis Evangelion: The End of Evangelion,8.0,https://www.imdb.com/title/tt0169858
+685,"
+Drama, Music, Romance            ",The Legend of 1900,8.0,https://www.imdb.com/title/tt0120731
+686,"
+Adventure, Comedy, Drama            ",Nebraska,7.7,https://www.imdb.com/title/tt1821549
+687,"
+Drama            ",Miracle in Cell No. 7,8.2,https://www.imdb.com/title/tt10431500
+688,"
+Biography, Drama, Music            ",Control,7.6,https://www.imdb.com/title/tt0421082
+689,"
+Animation, Biography, Drama            ",The Wind Rises,7.7,https://www.imdb.com/title/tt2013293
+690,"
+Crime, Drama, Mystery            ",Rashomon,8.2,https://www.imdb.com/title/tt0042876
+691,"
+Comedy, Drama, Romance            ",The Artist,7.9,https://www.imdb.com/title/tt1655442
+692,"
+Drama            ",Bicycle Thieves,8.3,https://www.imdb.com/title/tt0040522
+693,"
+Comedy, Drama, Romance            ",Modern Times,8.5,https://www.imdb.com/title/tt0027977
+694,"
+Animation, Adventure, Family            ",Wolfwalkers,8.0,https://www.imdb.com/title/tt5198068
+695,"
+Action, Crime, Drama            ",The Man from Nowhere,7.7,https://www.imdb.com/title/tt1527788
+696,"
+Biography, Drama, History            ",The Last Emperor,7.7,https://www.imdb.com/title/tt0093389
+697,"
+Biography, Drama, War            ",Patton,7.9,https://www.imdb.com/title/tt0066206
+698,"
+Drama, History, War            ",Zulu,7.7,https://www.imdb.com/title/tt0058777
+699,"
+Action, Comedy, Crime            ",Gangs of Wasseypur,8.2,https://www.imdb.com/title/tt1954470
+700,"
+Drama            ",25th Hour,7.6,https://www.imdb.com/title/tt0307901
+701,"
+Drama, Romance            ",Days of Heaven,7.8,https://www.imdb.com/title/tt0077405
+702,"
+Biography, Crime, Drama            ",In Cold Blood,7.9,https://www.imdb.com/title/tt0061809
+703,"
+Action, Crime, Thriller            ",Run Lola Run,7.7,https://www.imdb.com/title/tt0130827
+704,"
+Comedy, Drama, Romance            ",The Quiet Man,7.7,https://www.imdb.com/title/tt0045061
+705,"
+Drama            ",The Verdict,7.7,https://www.imdb.com/title/tt0084855
+706,"
+Drama, Music, Romance            ",Once,7.8,https://www.imdb.com/title/tt0907657
+707,"
+Comedy, Drama, Romance            ",Good Bye Lenin!,7.7,https://www.imdb.com/title/tt0301357
+708,"
+Comedy, Drama, Romance            ",Sabrina,7.6,https://www.imdb.com/title/tt0047437
+709,"
+Drama            ",Breaking the Waves,7.8,https://www.imdb.com/title/tt0115751
+710,"
+Action, Crime, Drama            ",Badlands,7.7,https://www.imdb.com/title/tt0069762
+711,"
+Thriller            ",Wait Until Dark,7.7,https://www.imdb.com/title/tt0062467
+712,"
+Animation, Comedy, Fantasy            ","South Park: Bigger, Longer & Uncut",7.7,https://www.imdb.com/title/tt0158983
+713,"
+Drama, Western            ",The Man Who Shot Liberty Valance,8.1,https://www.imdb.com/title/tt0056217
+714,"
+Crime, Drama, Mystery            ",Raatchasan,8.3,https://www.imdb.com/title/tt7060344
+715,"
+Comedy, Crime, Drama            ",Paper Moon,8.1,https://www.imdb.com/title/tt0070510
+716,"
+Comedy, Crime, Music            ",Andhadhun,8.2,https://www.imdb.com/title/tt8108198
+717,"
+Comedy, Romance, War            ",To Be or Not to Be,8.2,https://www.imdb.com/title/tt0035446
+718,"
+Drama            ",The Grapes of Wrath,8.1,https://www.imdb.com/title/tt0032551
+719,"
+Drama, War            ",Beasts of No Nation,7.7,https://www.imdb.com/title/tt1365050
+720,"
+Drama, War            ",Judgment at Nuremberg,8.3,https://www.imdb.com/title/tt0055031
+721,"
+Comedy, Drama            ",Guess Who's Coming to Dinner,7.8,https://www.imdb.com/title/tt0061735
+722,"
+Drama, Film-Noir, Romance            ",Notorious,7.9,https://www.imdb.com/title/tt0038787
+723,"
+Drama, Music, Romance            ",The Red Shoes,8.1,https://www.imdb.com/title/tt0040725
+724,"
+Biography, Crime, Drama            ",Sardar Udham,8.4,https://www.imdb.com/title/tt10280296
+725,"
+Comedy, Drama            ",Hannah and Her Sisters,7.9,https://www.imdb.com/title/tt0091167
+726,"
+Crime, Drama, Thriller            ",The Day of the Jackal,7.8,https://www.imdb.com/title/tt0069947
+727,"
+Drama            ",All About My Mother,7.8,https://www.imdb.com/title/tt0185125
+728,"
+Comedy, Drama, Musical            ",Zindagi Na Milegi Dobara,8.2,https://www.imdb.com/title/tt1562872
+729,"
+Biography, Drama, History            ",The Killing Fields,7.8,https://www.imdb.com/title/tt0087553
+730,"
+Crime, Drama, Horror            ",Diabolique,8.1,https://www.imdb.com/title/tt0046911
+731,"
+Drama            ",Short Term 12,7.9,https://www.imdb.com/title/tt2370248
+732,"
+Film-Noir, Thriller            ",Shadow of a Doubt,7.8,https://www.imdb.com/title/tt0036342
+733,"
+Crime, Drama            ",Lilya 4-Ever,7.8,https://www.imdb.com/title/tt0300140
+734,"
+Drama, Sport            ",The Hustler,8.0,https://www.imdb.com/title/tt0054997
+735,"
+Drama            ",Fanny and Alexander,8.1,https://www.imdb.com/title/tt0083922
+736,"
+Comedy, Drama, Romance            ",City Lights,8.5,https://www.imdb.com/title/tt0021749
+737,"
+Comedy, Drama, Music            ",Nashville,7.7,https://www.imdb.com/title/tt0073440
+738,"
+Biography, Drama, History            ",Ayla: The Daughter of War,8.3,https://www.imdb.com/title/tt6316138
+739,"
+Animation, Drama, Fantasy            ",Waking Life,7.7,https://www.imdb.com/title/tt0243017
+740,"
+Adventure, Drama, Western            ",Stagecoach,7.8,https://www.imdb.com/title/tt0031971
+741,"
+Action, Adventure, Comedy            ",Bajrangi Bhaijaan,8.1,https://www.imdb.com/title/tt3863552
+742,"
+Biography, Drama            ",My Left Foot,7.9,https://www.imdb.com/title/tt0097937
+743,"
+Comedy            ",Bringing Up Baby,7.8,https://www.imdb.com/title/tt0029947
+744,"
+Drama, Mystery            ",Anatomy of a Murder,8.0,https://www.imdb.com/title/tt0052561
+745,"
+Crime, Film-Noir, Mystery            ",The Big Sleep,7.9,https://www.imdb.com/title/tt0038355
+746,"
+Adventure, Drama            ",Fitzcarraldo,8.0,https://www.imdb.com/title/tt0083946
+747,"
+Biography, Drama            ",The Straight Story,8.0,https://www.imdb.com/title/tt0166896
+748,"
+Animation, Sci-Fi            ",Fantastic Planet,7.7,https://www.imdb.com/title/tt0070544
+749,"
+Crime, Drama            ",The 400 Blows,8.1,https://www.imdb.com/title/tt0053198
+750,"
+Drama, Mystery, Thriller            ",The White Ribbon,7.8,https://www.imdb.com/title/tt1149362
+751,"
+Drama, Mystery, Romance            ",Three Colors: Red,8.1,https://www.imdb.com/title/tt0111495
+752,"
+Drama            ",Cat on a Hot Tin Roof,7.9,https://www.imdb.com/title/tt0051459
+753,"
+Crime, Drama            ",Once Were Warriors,7.9,https://www.imdb.com/title/tt0110729
+754,"
+Action, Crime, Drama            ",Elite Squad,8.0,https://www.imdb.com/title/tt0861739
+755,"
+Comedy            ",The Discreet Charm of the Bourgeoisie,7.8,https://www.imdb.com/title/tt0068361
+756,"
+Action, Drama            ",Asuran,8.5,https://www.imdb.com/title/tt9477520
+757,"
+Action, Adventure, Romance            ",The Adventures of Robin Hood,7.9,https://www.imdb.com/title/tt0029843
+758,"
+Comedy, Drama, Music            ",Hedwig and the Angry Inch,7.7,https://www.imdb.com/title/tt0248845
+759,"
+Biography, Drama            ",Mirror,8.0,https://www.imdb.com/title/tt0072443
+760,"
+Adventure, Drama, Western            ",The Treasure of the Sierra Madre,8.2,https://www.imdb.com/title/tt0040897
+761,"
+Comedy, Drama, Fantasy            ",Underground,8.1,https://www.imdb.com/title/tt0114787
+762,"
+Comedy, Drama            ",Short Cuts,7.7,https://www.imdb.com/title/tt0108122
+763,"
+Biography, Drama, History            ",The Lion in Winter,7.9,https://www.imdb.com/title/tt0063227
+764,"
+Drama            ",In America,7.7,https://www.imdb.com/title/tt0298845
+765,"
+Crime, Drama, Film-Noir            ",The Killing,8.0,https://www.imdb.com/title/tt0049406
+766,"
+Drama            ",Pather Panchali,8.3,https://www.imdb.com/title/tt0048473
+767,"
+Comedy, Drama, Romance            ",My Sassy Girl,8.0,https://www.imdb.com/title/tt0293715
+768,"
+Animation, Biography, Drama            ",Persepolis,8.0,https://www.imdb.com/title/tt0808417
+769,"
+Comedy, Drama            ",Secrets & Lies,8.0,https://www.imdb.com/title/tt0117589
+770,"
+Action, Drama, Thriller            ",Yojimbo,8.2,https://www.imdb.com/title/tt0055630
+771,"
+Adventure, Biography, Drama            ",The Motorcycle Diaries,7.8,https://www.imdb.com/title/tt0318462
+772,"
+Animation, Drama, Family            ",The Breadwinner,7.7,https://www.imdb.com/title/tt3901826
+773,"
+Comedy, Drama            ",Mr. Smith Goes to Washington,8.1,https://www.imdb.com/title/tt0031679
+774,"
+Animation, Drama, Family            ",Whisper of the Heart,7.9,https://www.imdb.com/title/tt0113824
+775,"
+Crime, Drama, Thriller            ",Z,8.2,https://www.imdb.com/title/tt0065234
+776,"
+Mystery, Thriller            ",The Lady Vanishes,7.8,https://www.imdb.com/title/tt0030341
+777,"
+Adventure, Drama, Romance            ",The African Queen,7.7,https://www.imdb.com/title/tt0043265
+778,"
+Drama            ",Evil,7.7,https://www.imdb.com/title/tt0338309
+779,"
+Action, Adventure, Biography            ","Aguirre, the Wrath of God",7.8,https://www.imdb.com/title/tt0068182
+780,"
+Drama, Mystery, Romance            ",A Very Long Engagement,7.6,https://www.imdb.com/title/tt0344510
+781,"
+Drama, Mystery, Romance            ",Talk to Her,7.9,https://www.imdb.com/title/tt0287467
+782,"
+Drama, Family, Sport            ",Children of Heaven,8.2,https://www.imdb.com/title/tt0118849
+783,"
+Drama, Thriller            ",Cape Fear,7.7,https://www.imdb.com/title/tt0055824
+784,"
+Biography, Drama            ",The Diving Bell and the Butterfly,8.0,https://www.imdb.com/title/tt0401383
+785,"
+Crime, Drama, Romance            ",3-Iron,7.9,https://www.imdb.com/title/tt0423866
+786,"
+Action, Crime, Drama            ",Infernal Affairs,8.0,https://www.imdb.com/title/tt0338564
+787,"
+Drama, Romance            ",96,8.5,https://www.imdb.com/title/tt7019842
+788,"
+Drama, Music, Romance            ",The Broken Circle Breakdown,7.7,https://www.imdb.com/title/tt2024519
+789,"
+Crime, Drama, Film-Noir            ",Out of the Past,8.0,https://www.imdb.com/title/tt0039689
+790,"
+Crime, Mystery, Thriller            ",The 39 Steps,7.6,https://www.imdb.com/title/tt0026029
+791,"
+Action, Biography, Drama            ",Shershaah,8.4,https://www.imdb.com/title/tt10295212
+792,"
+Crime, Drama, Mystery            ",High and Low,8.4,https://www.imdb.com/title/tt0057565
+793,"
+Drama, Film-Noir, Mystery            ",Laura,7.9,https://www.imdb.com/title/tt0037008
+794,"
+Comedy, Drama, Music            ",The Chorus,7.8,https://www.imdb.com/title/tt0372824
+795,"
+Animation, Adventure, Drama            ",Song of the Sea,8.0,https://www.imdb.com/title/tt1865505
+796,"
+Animation, Adventure, Comedy            ",Porco Rosso,7.7,https://www.imdb.com/title/tt0104652
+797,"
+Drama, Family            ",Like Stars on Earth,8.4,https://www.imdb.com/title/tt0986264
+798,"
+Drama, Romance            ",Head-On,7.9,https://www.imdb.com/title/tt0347048
+799,"
+Drama, Fantasy, Music            ",The Double Life of Véronique,7.7,https://www.imdb.com/title/tt0101765
+800,"
+Comedy, Mystery            ",The Thin Man,7.9,https://www.imdb.com/title/tt0025878
+801,"
+Drama, History            ",The Leopard,8.0,https://www.imdb.com/title/tt0057091
+802,"
+Drama, Romance            ",Wild Strawberries,8.1,https://www.imdb.com/title/tt0050986
+803,"
+Crime, Drama            ",Le Samouraï,8.0,https://www.imdb.com/title/tt0062229
+804,"
+Biography, Drama, Sport            ",The World's Fastest Indian,7.8,https://www.imdb.com/title/tt0412080
+805,"
+Drama            ",Soorarai Pottru,8.7,https://www.imdb.com/title/tt10189514
+806,"
+Comedy, Drama, Romance            ",Three Colors: White,7.6,https://www.imdb.com/title/tt0111507
+807,"
+Drama, Romance            ",Brief Encounter,8.0,https://www.imdb.com/title/tt0037558
+808,"
+Biography, Comedy, Drama            ",Philomena,7.6,https://www.imdb.com/title/tt2431286
+809,"
+Crime, Drama, Film-Noir            ",The Asphalt Jungle,7.8,https://www.imdb.com/title/tt0042208
+810,"
+Comedy, Drama, Family            ",Miracle on 34th Street,7.9,https://www.imdb.com/title/tt0039628
+811,"
+Animation, Adventure, Drama            ",The Little Prince,7.7,https://www.imdb.com/title/tt1754656
+812,"
+Drama, War            ",The Battle of Algiers,8.1,https://www.imdb.com/title/tt0058946
+813,"
+Drama, Western            ",Red River,7.8,https://www.imdb.com/title/tt0040724
+814,"
+Action, Drama, Thriller            ",Joint Security Area,7.8,https://www.imdb.com/title/tt0260991
+815,"
+Comedy            ",The Odd Couple,7.6,https://www.imdb.com/title/tt0063374
+816,"
+Drama, History, War            ",Land of Mine,7.8,https://www.imdb.com/title/tt3841424
+817,"
+Adventure, Biography, Drama            ",Dersu Uzala,8.2,https://www.imdb.com/title/tt0071411
+818,"
+Action, Crime, Drama            ",Scarface,7.7,https://www.imdb.com/title/tt0023427
+819,"
+Comedy, Drama, Musical            ",Kal Ho Naa Ho,7.9,https://www.imdb.com/title/tt0347304
+820,"
+Drama, Musical, Sport            ",Lagaan: Once Upon a Time in India,8.1,https://www.imdb.com/title/tt0169102
+821,"
+Animation, Action, Crime            ",Cowboy Bebop: The Movie,7.8,https://www.imdb.com/title/tt0275277
+822,"
+Crime, Drama            ",Leviathan,7.6,https://www.imdb.com/title/tt2802154
+823,"
+Drama            ","I, Daniel Blake",7.8,https://www.imdb.com/title/tt5168192
+824,"
+Biography, Drama, History            ",Andrei Rublev,8.1,https://www.imdb.com/title/tt0060107
+825,"
+Drama, Romance            ",Happy Together,7.7,https://www.imdb.com/title/tt0118845
+826,"
+Animation, Drama, Family            ",The Tale of The Princess Kaguya,8.0,https://www.imdb.com/title/tt2576852
+827,"
+Crime, Drama            ",A Prophet,7.8,https://www.imdb.com/title/tt1235166
+828,"
+Drama            ",The Conformist,7.9,https://www.imdb.com/title/tt0065571
+829,"
+Comedy, Drama, Family            ",English Vinglish,7.8,https://www.imdb.com/title/tt2181931
+830,"
+Animation, Drama, Family            ",When Marnie Was There,7.7,https://www.imdb.com/title/tt3398268
+831,"
+Comedy, Drama, Fantasy            ",Harvey,7.9,https://www.imdb.com/title/tt0042546
+832,"
+Comedy, Drama, Romance            ",His Girl Friday,7.8,https://www.imdb.com/title/tt0032599
+833,"
+Biography, Drama, History            ",The Message,8.1,https://www.imdb.com/title/tt0074896
+834,"
+Biography, Drama, History            ",A Man for All Seasons,7.7,https://www.imdb.com/title/tt0060665
+835,"
+Comedy, Drama            ",Night on Earth,7.7,https://www.imdb.com/title/tt0102536
+836,"
+Drama, Musical            ",Swades,8.2,https://www.imdb.com/title/tt0367110
+837,"
+Adventure, Drama, Romance            ",My Name Is Khan,7.9,https://www.imdb.com/title/tt1188996
+838,"
+Comedy, Drama, Family            ",The Kid,8.3,https://www.imdb.com/title/tt0012349
+839,"
+Action, Crime, Drama            ",Key Largo,7.7,https://www.imdb.com/title/tt0040506
+840,"
+Drama, Music, Romance            ",Farewell My Concubine,8.1,https://www.imdb.com/title/tt0106332
+841,"
+Drama            ",Cries & Whispers,8.0,https://www.imdb.com/title/tt0069467
+842,"
+Drama, Romance            ","Spring, Summer, Fall, Winter... and Spring",8.0,https://www.imdb.com/title/tt0374546
+843,"
+Adventure, Comedy, Film-Noir            ",To Have and Have Not,7.8,https://www.imdb.com/title/tt0037382
+844,"
+Comedy, Crime, Romance            ","Black Cat, White Cat",8.0,https://www.imdb.com/title/tt0118843
+845,"
+Drama, History, War            ","Quo Vadis, Aida?",8.0,https://www.imdb.com/title/tt8633462
+846,"
+Drama            ",Tokyo Story,8.2,https://www.imdb.com/title/tt0046438
+847,"
+Biography, Drama            ",The Sea Inside,8.0,https://www.imdb.com/title/tt0369702
+848,"
+Comedy, Drama, War            ",Stalag 17,8.0,https://www.imdb.com/title/tt0046359
+849,"
+Comedy, Drama            ",I Remember,7.9,https://www.imdb.com/title/tt0071129
+850,"
+Comedy, Drama, Family            ",The Muppet Christmas Carol,7.7,https://www.imdb.com/title/tt0104940
+851,"
+Drama, Romance            ",Dilwale Dulhania Le Jayenge,8.0,https://www.imdb.com/title/tt0112870
+852,"
+Biography, Drama, Sport            ",M.S. Dhoni: The Untold Story,7.9,https://www.imdb.com/title/tt4169250
+853,"
+Biography, Drama, History            ",The Passion of Joan of Arc,8.2,https://www.imdb.com/title/tt0019254
+854,"
+Adventure, History, War            ",The Man Who Would Be King,7.8,https://www.imdb.com/title/tt0073341
+855,"
+Crime, Drama, Film-Noir            ",Mildred Pierce,7.9,https://www.imdb.com/title/tt0037913
+856,"
+Animation, Action, Adventure            ",Ninja Scroll,7.8,https://www.imdb.com/title/tt0107692
+857,"
+Action, Crime, Thriller            ",Hard Boiled,7.7,https://www.imdb.com/title/tt0104684
+858,"
+Drama            ",The Sacrifice,7.9,https://www.imdb.com/title/tt0091670
+859,"
+Drama            ","4 Months, 3 Weeks and 2 Days",7.9,https://www.imdb.com/title/tt1032846
+860,"
+Drama, Thriller            ",The Experiment,7.7,https://www.imdb.com/title/tt0250258
+861,"
+Action, Adventure, Comedy            ",The General,8.2,https://www.imdb.com/title/tt0017925
+862,"
+Biography, Drama, History            ",Inherit the Wind,8.1,https://www.imdb.com/title/tt0053946
+863,"
+Comedy, Drama, Romance            ",The Shop Around the Corner,8.0,https://www.imdb.com/title/tt0033045
+864,"
+Drama, Film-Noir            ",Sweet Smell of Success,8.0,https://www.imdb.com/title/tt0051036
+865,"
+Drama, Musical, Romance            ",The Umbrellas of Cherbourg,7.8,https://www.imdb.com/title/tt0058450
+866,"
+Biography, Drama, History            ",Frost/Nixon,7.7,https://www.imdb.com/title/tt0870111
+867,"
+Drama, Romance            ",The Lunchbox,7.8,https://www.imdb.com/title/tt2350496
+868,"
+Biography, Drama, Music            ",Shine,7.7,https://www.imdb.com/title/tt0117631
+869,"
+Drama            ",After the Wedding,7.7,https://www.imdb.com/title/tt0457655
+870,"
+Animation, Drama, Family            ",Wolf Children,8.1,https://www.imdb.com/title/tt2140203
+871,"
+Crime, Drama, Thriller            ",Nine Queens,7.9,https://www.imdb.com/title/tt0247586
+872,"
+Drama, Mystery, Romance            ",L'Avventura,7.8,https://www.imdb.com/title/tt0053619
+873,"
+Action, Drama, History            ",Uri: The Surgical Strike,8.2,https://www.imdb.com/title/tt8291224
+874,"
+Drama, Music, Romance            ",Gully Boy,7.9,https://www.imdb.com/title/tt2395469
+875,"
+Drama, History, Music            ",Joyeux Noel,7.7,https://www.imdb.com/title/tt0424205
+876,"
+Drama, Family            ",My Father and My Son,8.2,https://www.imdb.com/title/tt0476735
+877,"
+Drama            ",Nostalghia,8.0,https://www.imdb.com/title/tt0086022
+878,"
+Animation, Action, Adventure            ",Batman: Mask of the Phantasm,7.8,https://www.imdb.com/title/tt0106364
+879,"
+Drama            ",Taste of Cherry,7.7,https://www.imdb.com/title/tt0120265
+880,"
+Drama, Music            ",Autumn Sonata,8.1,https://www.imdb.com/title/tt0077711
+881,"
+Drama, Thriller            ",Confessions,7.7,https://www.imdb.com/title/tt1590089
+882,"
+Mystery, Thriller            ",Sleuth,8.0,https://www.imdb.com/title/tt0069281
+883,"
+Drama            ",Vivre Sa Vie,7.9,https://www.imdb.com/title/tt0056663
+884,"
+Drama            ",Nobody Knows,8.0,https://www.imdb.com/title/tt0408664
+885,"
+Comedy, Drama, Romance            ",Chhichhore,8.2,https://www.imdb.com/title/tt9052870
+886,"
+Comedy, Drama            ",Crimes and Misdemeanors,7.8,https://www.imdb.com/title/tt0097123
+887,"
+Drama, Fantasy            ",Dreams,7.7,https://www.imdb.com/title/tt0100998
+888,"
+Drama            ",Winter Sleep,8.1,https://www.imdb.com/title/tt2758880
+889,"
+Comedy, Crime            ",Kind Hearts and Coronets,8.0,https://www.imdb.com/title/tt0041546
+890,"
+Drama, History            ",Throne of Blood,8.1,https://www.imdb.com/title/tt0050613
+891,"
+Comedy, Fantasy, Romance            ",The Purple Rose of Cairo,7.7,https://www.imdb.com/title/tt0089853
+892,"
+Drama, Fantasy            ",The Exterminating Angel,8.0,https://www.imdb.com/title/tt0056732
+893,"
+Drama, History, War            ",Kagemusha,7.9,https://www.imdb.com/title/tt0080979
+894,"
+Drama            ",The Salesman,7.7,https://www.imdb.com/title/tt5186714
+895,"
+Comedy, Drama, Romance            ",Dil Chahta Hai,8.1,https://www.imdb.com/title/tt0292490
+896,"
+Comedy, Crime, Drama            ",Adam's Apples,7.7,https://www.imdb.com/title/tt0418455
+897,"
+Biography, Comedy, Drama            ",The Postman,7.7,https://www.imdb.com/title/tt0110877
+898,"
+Animation, Adventure, Comedy            ",Tokyo Godfathers,7.8,https://www.imdb.com/title/tt0388473
+899,"
+Drama, War            ",Ivan's Childhood,8.0,https://www.imdb.com/title/tt0056111
+900,"
+Drama, Film-Noir            ",Ace in the Hole,8.1,https://www.imdb.com/title/tt0043338
+901,"
+Drama            ",The Virgin Spring,8.1,https://www.imdb.com/title/tt0053976
+902,"
+Comedy, Drama, Romance            ",You Can't Take It with You,7.8,https://www.imdb.com/title/tt0030993
+903,"
+Drama, War            ",The Caine Mutiny,7.7,https://www.imdb.com/title/tt0046816
+904,"
+Drama, Romance            ",Sunrise,8.1,https://www.imdb.com/title/tt0018455
+905,"
+Biography, Comedy, Drama            ",Pad Man,7.9,https://www.imdb.com/title/tt7218518
+906,"
+Crime, Drama, Thriller            ",Elevator to the Gallows,7.9,https://www.imdb.com/title/tt0051378
+907,"
+Drama, History, Thriller            ",Battleship Potemkin,8.0,https://www.imdb.com/title/tt0015648
+908,"
+Drama            ",The Magdalene Sisters,7.7,https://www.imdb.com/title/tt0318411
+909,"
+Drama            ",Departures,8.0,https://www.imdb.com/title/tt1069238
+910,"
+Drama, War            ","Goodbye, Children",8.0,https://www.imdb.com/title/tt0092593
+911,"
+Drama, Family, Sport            ",Let's Go! India,8.1,https://www.imdb.com/title/tt0871510
+912,"
+Drama            ",La strada,8.0,https://www.imdb.com/title/tt0047528
+913,"
+Action, Adventure, Drama            ",The Hidden Fortress,8.1,https://www.imdb.com/title/tt0051808
+914,"
+Adventure, Comedy, Drama            ",The Gold Rush,8.2,https://www.imdb.com/title/tt0015864
+915,"
+Drama, Mystery            ",About Elly,7.9,https://www.imdb.com/title/tt1360860
+916,"
+Animation, Comedy, Drama            ",The Triplets of Belleville,7.7,https://www.imdb.com/title/tt0286244
+917,"
+Comedy, Musical            ",Duck Soup,7.8,https://www.imdb.com/title/tt0023969
+918,"
+Drama, Film-Noir            ",The Lost Weekend,7.9,https://www.imdb.com/title/tt0037884
+919,"
+Crime, Drama, Thriller            ",Drishyam 2,8.4,https://www.imdb.com/title/tt12361178
+920,"
+Drama, Mystery            ",The Past,7.7,https://www.imdb.com/title/tt2404461
+921,"
+Drama, Romance            ",The Way He Looks,7.9,https://www.imdb.com/title/tt1702014
+922,"
+Comedy, Crime, Drama            ",Down by Law,7.7,https://www.imdb.com/title/tt0090967
+923,"
+Comedy, Crime, Drama            ",Time of the Gypsies,8.1,https://www.imdb.com/title/tt0097223
+924,"
+Action, Crime, Drama            ",Celda 211,7.6,https://www.imdb.com/title/tt1242422
+925,"
+Action, Crime, Drama            ",The Killer,7.8,https://www.imdb.com/title/tt0097202
+926,"
+Drama, Family, Musical            ",Veer Zaara,7.8,https://www.imdb.com/title/tt0420332
+927,"
+Crime, Drama, Thriller            ",Le Cercle Rouge,7.9,https://www.imdb.com/title/tt0065531
+928,"
+Animation, Adventure, Comedy            ",The Girl Who Leapt Through Time,7.7,https://www.imdb.com/title/tt0808506
+929,"
+Crime, Drama, Thriller            ",Once Upon a Time in Anatolia,7.8,https://www.imdb.com/title/tt1827487
+930,"
+Comedy, Drama, Romance            ",Barfi!,8.1,https://www.imdb.com/title/tt2082197
+931,"
+Comedy, Drama            ",C.R.A.Z.Y.,7.9,https://www.imdb.com/title/tt0401085
+932,"
+Crime, Drama, Thriller            ",Rififi,8.1,https://www.imdb.com/title/tt0048021
+933,"
+Drama, Romance            ",Hiroshima Mon Amour,7.9,https://www.imdb.com/title/tt0052893
+934,"
+Crime, Film-Noir, Thriller            ",The Big Heat,7.9,https://www.imdb.com/title/tt0045555
+935,"
+Action, Crime, Drama            ",White Heat,8.1,https://www.imdb.com/title/tt0042041
+936,"
+Action, Crime, Drama            ",Elite Squad 2: The Enemy Within,8.0,https://www.imdb.com/title/tt1555149
+937,"
+Drama, Romance            ",Jules and Jim,7.7,https://www.imdb.com/title/tt0055032
+938,"
+Drama            ",The Return,7.9,https://www.imdb.com/title/tt0376968
+939,"
+Crime, Drama, Thriller            ",Drishyam,8.3,https://www.imdb.com/title/tt3417422
+940,"
+Adventure, Comedy, Sci-Fi            ",G.O.R.A.,8.0,https://www.imdb.com/title/tt0384116
+941,"
+Comedy, War            ",Love and Death,7.7,https://www.imdb.com/title/tt0073312
+942,"
+Comedy, Drama            ",The Rules of the Game,7.9,https://www.imdb.com/title/tt0031885
+943,"
+Crime, Drama, Mystery            ",Talvar,8.1,https://www.imdb.com/title/tt4934950
+944,"
+Crime, Drama, Mystery            ",Article 15,8.1,https://www.imdb.com/title/tt10324144
+945,"
+Action, Comedy, Romance            ",Sherlock Jr.,8.2,https://www.imdb.com/title/tt0015324
+946,"
+Drama, War            ",The Grand Illusion,8.1,https://www.imdb.com/title/tt0028950
+947,"
+Drama            ",Nights of Cabiria,8.1,https://www.imdb.com/title/tt0050783
+948,"
+Adventure, Comedy, Drama            ",Queen,8.1,https://www.imdb.com/title/tt3322420
+949,"
+Comedy, Drama, War            ",No Man's Land,7.9,https://www.imdb.com/title/tt0283509
+950,"
+Comedy, Drama, Romance            ",Jab We Met,7.9,https://www.imdb.com/title/tt1093370
+951,"
+Action, Crime, Drama            ",A Wednesday,8.1,https://www.imdb.com/title/tt1280558
+952,"
+Biography, Drama            ",Super 30,7.9,https://www.imdb.com/title/tt7485048
+953,"
+Drama, War            ",Tangerines,8.1,https://www.imdb.com/title/tt2991224
+954,"
+Drama, Fantasy, Romance            ",Beauty and the Beast,7.9,https://www.imdb.com/title/tt0038348
+955,"
+Drama, History, Romance            ",Raise the Red Lantern,8.1,https://www.imdb.com/title/tt0101640
+956,"
+Comedy, Drama            ",Badhaai Ho,7.9,https://www.imdb.com/title/tt7725596
+957,"
+Action, Crime, Comedy            ",Knockin' on Heaven's Door,7.9,https://www.imdb.com/title/tt0119472
+958,"
+Comedy, Drama            ",Jean de Florette,8.1,https://www.imdb.com/title/tt0091288
+959,"
+Adventure, Comedy, Drama            ",Sullivan's Travels,7.9,https://www.imdb.com/title/tt0034240
+960,"
+Animation, Drama, Fantasy            ",Millennium Actress,7.8,https://www.imdb.com/title/tt0291350
+961,"
+Comedy, Drama            ",Hindi Medium,7.8,https://www.imdb.com/title/tt5764096
+962,"
+Comedy, Crime, Drama            ",Color It Yellow,8.1,https://www.imdb.com/title/tt0405508
+963,"
+Crime, Drama, Romance            ",Fireworks,7.7,https://www.imdb.com/title/tt0119250
+964,"
+Drama            ",The Edge of Heaven,7.7,https://www.imdb.com/title/tt0880502
+965,"
+Drama            ",Central Station,8.0,https://www.imdb.com/title/tt0140888
+966,"
+Drama, Thriller, War            ","Rome, Open City",8.0,https://www.imdb.com/title/tt0038890
+967,"
+Action, Crime, Thriller            ",Baby,7.9,https://www.imdb.com/title/tt3848892
+968,"
+Drama            ",Through a Glass Darkly,8.0,https://www.imdb.com/title/tt0055499
+969,"
+Action, Drama, War            ",Tae Guk Gi: The Brotherhood of War,8.0,https://www.imdb.com/title/tt0386064
+970,"
+Action, Adventure, Comedy            ",Sholay,8.1,https://www.imdb.com/title/tt0073707
+971,"
+Animation, Comedy, Drama            ",My Life as a Zucchini,7.7,https://www.imdb.com/title/tt2321405
+972,"
+Comedy            ",Zelig,7.7,https://www.imdb.com/title/tt0086637
+973,"
+Action, Drama, Thriller            ",Sanjuro,8.0,https://www.imdb.com/title/tt0056443
+974,"
+Crime, Drama, Thriller            ",The Bandit,8.1,https://www.imdb.com/title/tt0116231
+975,"
+Action, Crime, Drama            ",Haider,8.0,https://www.imdb.com/title/tt3390572
+976,"
+Drama, Musical            ",Anand,8.1,https://www.imdb.com/title/tt0066763
+977,"
+Comedy, Music, Musical            ",A Night at the Opera,7.8,https://www.imdb.com/title/tt0026778
+978,"
+Comedy, Family, Romance            ",The Circus,8.1,https://www.imdb.com/title/tt0018773
+979,"
+Action, Comedy, Crime            ",Hera Pheri,8.1,https://www.imdb.com/title/tt0242519
+980,"
+Comedy, Drama            ",Munna Bhai M.B.B.S.,8.1,https://www.imdb.com/title/tt0374887
+981,"
+Drama            ",Umberto D.,8.2,https://www.imdb.com/title/tt0045274
+982,"
+Comedy, Drama, Fantasy            ",OMG: Oh My God!,8.1,https://www.imdb.com/title/tt2283748
+983,"
+Biography, Drama, Sport            ",Bhaag Milkha Bhaag,8.2,https://www.imdb.com/title/tt2356180
+984,"
+Crime, Drama, Thriller            ",Pink,8.1,https://www.imdb.com/title/tt5571734
+985,"
+Mystery, Thriller            ",Kahaani,8.1,https://www.imdb.com/title/tt1821480
+986,"
+Drama            ",Masaan,8.1,https://www.imdb.com/title/tt4635372
+987,"
+Comedy, Romance            ",Vicky Donor,7.8,https://www.imdb.com/title/tt2317337
+988,"
+Drama            ",Black,8.1,https://www.imdb.com/title/tt0375611
+989,"
+Action, Drama, Thriller            ",The Breath,8.0,https://www.imdb.com/title/tt1171701
+990,"
+Action, Drama, History            ",Airlift,7.9,https://www.imdb.com/title/tt4387040
+991,"
+Comedy, Drama, Romance            ",Dev.D,7.9,https://www.imdb.com/title/tt1327035
+992,"
+Drama            ",Udaan,8.1,https://www.imdb.com/title/tt1639426
+993,"
+Crime, Drama, Thriller            ",Special 26,8.0,https://www.imdb.com/title/tt2377938
+994,"
+Comedy, Drama, Thriller            ",Everything's Gonna Be Great,8.1,https://www.imdb.com/title/tt0263438
+995,"
+Action, Biography, Crime            ",Paan Singh Tomar,8.2,https://www.imdb.com/title/tt1620933
+996,"
+Action, Comedy, Romance            ",Andaz Apna Apna,8.0,https://www.imdb.com/title/tt0109117
+997,"
+Comedy, Drama            ",Vizontele,8.0,https://www.imdb.com/title/tt0270053
+998,"
+Comedy, Drama, Romance            ","Carry On, Munna Bhai",8.0,https://www.imdb.com/title/tt0456144
+999,"
+Action, Drama, Thriller            ",Sarfarosh,8.1,https://www.imdb.com/title/tt0200087
